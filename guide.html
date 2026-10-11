@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Guide Klinik : comment s'abonner</title>
+<meta name="description" content="Comment ouvrir Klinik, payer par NatCash et activer ton accès, pas à pas.">
+<meta property="og:title" content="Guide Klinik : comment s'abonner">
+<meta property="og:description" content="Ouvrir Klinik, payer par NatCash et activer ton accès, pas à pas.">
+<meta name="theme-color" content="#0E6B66">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  --bg:#F2F7F7; --surface:#FFFFFF; --ink:#0F2329; --muted:#476067; --line:#D3E0E2; --grid:rgba(14,107,102,.09);
+  --brand:#0E6B66; --brand-ink:#FFFFFF; --brand-soft:#DCF0EE;
+  --warn:#7E4300; --warn-bg:#FFF3DC; --info:#1B4A97;
+  --f-display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
+  --f-body:'Atkinson Hyperlegible',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  --f-mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0A1519; --surface:#10222A; --ink:#E5EFF0; --muted:#9EB5BB; --line:#23393F; --grid:rgba(56,209,193,.07);
+    --brand:#38D1C1; --brand-ink:#04211E; --brand-soft:#123436;
+    --warn:#FFCC72; --warn-bg:#2E2208; --info:#9DC2FF; color-scheme:dark;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.6;-webkit-text-size-adjust:100%}
+h1,h2{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.15;letter-spacing:-.01em}
+h1{font-size:30px;font-weight:800}
+h2{font-size:22px;font-weight:700}
+p{margin:0}
+a{color:var(--info)}
+:focus-visible{outline:3px solid var(--brand);outline-offset:2px}
+.top{padding:14px 16px;border-bottom:1px solid var(--line);background-color:var(--bg);
+  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:12px 12px}
+.top-in{max-width:680px;margin-inline:auto;display:flex;flex-direction:column;line-height:1.1}
+.wm{font-family:var(--f-display);font-weight:800;font-size:26px;color:var(--brand);letter-spacing:-.02em}
+.by{font-size:13px;color:var(--muted);font-weight:700;letter-spacing:.02em}
+main{max-width:680px;margin-inline:auto;padding:20px 16px 56px;display:flex;flex-direction:column;gap:24px}
+section{display:flex;flex-direction:column;gap:12px}
+.lead{color:var(--muted)}
+.btn{display:flex;align-items:center;justify-content:center;min-height:52px;border-radius:10px;border:1px solid var(--brand);background:var(--brand);color:var(--brand-ink);font-weight:700;text-decoration:none;padding:10px 18px;text-align:center}
+.btn.sec{background:transparent;color:var(--brand);border-color:var(--line)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px}
+table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:16px}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}
+th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+tr:last-child td{border-bottom:0}
+td.p{font-family:var(--f-mono);white-space:nowrap}
+ol.steps{list-style:none;counter-reset:s;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+ol.steps li{counter-increment:s;display:flex;gap:12px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px}
+ol.steps li::before{content:counter(s);flex:none;width:30px;height:30px;border-radius:50%;background:var(--brand);color:var(--brand-ink);font-weight:700;display:flex;align-items:center;justify-content:center;font-family:var(--f-mono)}
+ol.steps li>div{min-width:0}
+.num{font-family:var(--f-mono);font-size:26px;font-weight:500;color:var(--brand);letter-spacing:.02em}
+.note{border:1px solid var(--warn);background:var(--warn-bg);color:var(--warn);border-radius:10px;padding:12px 14px}
+.note b{display:block;font-size:14px;letter-spacing:.04em;text-transform:uppercase;margin-bottom:2px}
+details{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:0 14px}
+summary{cursor:pointer;min-height:52px;display:flex;align-items:center;font-weight:700;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";margin-left:auto;padding-left:12px;font-size:22px;color:var(--brand)}
+details[open] summary::after{content:"–"}
+details p{padding:0 0 14px;color:var(--ink)}
+.small{font-size:15px;color:var(--muted)}
+.sig{text-align:center;font-weight:700;font-size:13px;letter-spacing:.04em;color:var(--muted)}
+</style>
+</head>
+<body>
+<header class="top"><div class="top-in"><span class="wm">Klinik</span><span class="by">par Colas Guensly</span></div></header>
+<main>
+  <section>
+    <h1>Comment s'abonner à Klinik</h1>
+    <p class="lead">Klinik t'aide à apprendre la sémiologie pendant tes stages : fiches avec références, cas cliniques, QCM, mode concours et cartes de révision. Une partie est gratuite pour essayer. Pour tout débloquer, tu paies par NatCash et tu reçois un code d'accès.</p>
+    <a class="btn" href="./">Ouvrir Klinik</a>
+    <p class="small">Ouvre Klinik dans Chrome (Android) ou Safari (iPhone), pas dans le navigateur intégré à WhatsApp. Il n'y a pas de compte à créer : ton accès reste enregistré dans le navigateur que tu utilises.</p>
+  </section>
+
+  <section>
+    <h2>Les formules</h2>
+    <table>
+      <thead><tr><th>Formule</th><th>Durée</th><th>Prix</th></tr></thead>
+      <tbody>
+        <tr><td>Mensuel</td><td>30 jours</td><td class="p">500 HTG</td></tr>
+        <tr><td>Trimestriel</td><td>90 jours</td><td class="p">1 200 HTG</td></tr>
+        <tr><td>Annuel</td><td>365 jours</td><td class="p">4 000 HTG</td></tr>
+      </tbody>
+    </table>
+    <p class="small">L'abonnement ne se renouvelle pas tout seul. Les prix peuvent changer.</p>
+  </section>
+
+  <section>
+    <h2>S'abonner, étape par étape</h2>
+    <ol class="steps">
+      <li><div>Dans Klinik, touche <b>Profil</b>, puis <b>Voir les offres et s'abonner</b>.</div></li>
+      <li><div>Choisis ta formule. L'application affiche le montant exact à payer.</div></li>
+      <li><div>Ouvre NatCash et envoie <b>exactement ce montant</b> au numéro :<br><span class="num">509 4072 4822</span></div></li>
+      <li><div>NatCash t'envoie un SMS avec un <b>numéro de transaction</b>. Garde ce SMS.</div></li>
+      <li><div>Dans Klinik, écris ton nom, ton numéro WhatsApp (pour recevoir ton code) et le numéro de transaction. Touche <b>Préparer ma demande</b>.</div></li>
+      <li><div>Touche <b>Envoyer par WhatsApp</b> (ou Envoyer par SMS). Si le bouton ne s'ouvre pas, touche <b>Copier le message</b> et colle-le dans WhatsApp ou dans un SMS au 509 4072 4822.</div></li>
+      <li><div>Colas vérifie ton paiement et te répond avec un <b>code</b> qui commence par KLK-.</div></li>
+      <li><div>Dans Klinik, au même endroit (Profil, Voir les offres), colle ton code à l'étape « Active ton code » et touche <b>Activer</b>. Tu peux coller tout le message reçu.</div></li>
+    </ol>
+    <div class="note"><b>Ne paie pas deux fois</b>La vérification se fait à la main, ce n'est donc pas instantané. Si tu n'as rien reçu après quelques heures, écris ou appelle le 509 4072 4822 avec ton nom et ton numéro de transaction.</div>
+  </section>
+
+  <section>
+    <h2>Questions fréquentes</h2>
+    <details><summary>Comment je sais que mon accès est actif ?</summary><p>La pastille en haut de l'écran passe de « Gratuit » à « Abonné », et ton profil affiche la date de fin.</p></details>
+    <details><summary>Mon code ne marche pas</summary><p>Copie-le en entier, de « KLK- » jusqu'à la dernière lettre, sans rien changer. Si l'écran dit « expiré » ou « ne correspond plus », demande un nouveau code.</p></details>
+    <details><summary>J'ai envoyé un autre montant</summary><p>Le montant doit être au moins celui de la formule. S'il est plus petit, tu ne reçois pas de code : écris-nous pour compléter.</p></details>
+    <details><summary>Puis-je l'utiliser sur un autre téléphone ?</summary><p>Oui, pour ton propre usage : colle le même code sur l'autre téléphone. Il est personnel, ne le partage pas.</p></details>
+    <details><summary>J'ai changé de téléphone ou effacé les données du navigateur</summary><p>Ta progression est perdue, mais ton accès revient : colle de nouveau ton code. Garde le message qui le contient.</p></details>
+    <details><summary>Mon abonnement est terminé</summary><p>Les fiches payantes se verrouillent. Refais les étapes de paiement pour recevoir un nouveau code. Si tu te réabonnes depuis le même téléphone et le même navigateur, les jours qu'il te reste s'ajoutent.</p></details>
+    <details><summary>Klinik voit-il mon code PIN NatCash ?</summary><p>Non. Le paiement se fait dans NatCash, jamais dans Klinik.</p></details>
+  </section>
+
+  <section>
+    <h2>Besoin d'aide ?</h2>
+    <p>Écris ou appelle le <b>509 4072 4822</b> avec ton nom et, si tu as payé, ton numéro de transaction.</p>
+    <a class="btn sec" href="./">Retour à Klinik</a>
+  </section>
+
+  <p class="small">Klinik est un outil pédagogique. Il ne remplace ni le jugement clinique, ni les protocoles de ton établissement, ni l'avis d'un professionnel qualifié. Les questions d'entraînement sont originales : ce ne sont pas des questions officielles de l'USMLE, de Kaplan ou d'un concours de résidence.</p>
+  <p class="sig">Klinik · par Colas Guensly</p>
+</main>
+</body>
+</html>
