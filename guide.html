@@ -119,6 +119,7 @@ details p{padding:0 0 14px;color:var(--ink)}
     <details><summary>Mon code ne marche pas</summary><p>Copie-le en entier, de « KLC- » ou « KLK- » jusqu'à la dernière lettre, sans rien changer. Si l'écran dit « expiré » ou « ne correspond plus », demande un nouveau code. Un code de recharge ne peut servir qu'une fois sur le même téléphone.</p></details>
     <details><summary>Puis-je utiliser mon crédit sur un autre téléphone ?</summary><p>Non. Le solde est enregistré dans le navigateur du téléphone où tu as activé le code. Si tu changes de téléphone ou si tu effaces les données du navigateur, le solde est perdu. Écris au 509 4072 4822 avec ton nom et ton numéro de transaction, et Colas regardera ce qui est possible. Garde toujours le message qui contient ton code.</p></details>
     <details><summary>Quelle différence avec un forfait illimité ?</summary><p>Avec un forfait, tu paies une fois pour 30, 90 ou 365 jours et rien n'est déduit pendant ce temps. Le crédit convient si tu étudies de façon irrégulière. Si tu dépenses beaucoup, le plafond de 500 HTG tous les 30 jours te protège.</p></details>
+    <details><summary>Qui sait que j'utilise Klinik ?</summary><p>Klinik envoie à son auteur un signal anonyme quand l'application s'ouvre, quand la page des offres est ouverte, quand une demande de paiement est préparée et quand un code est activé. Ce signal ne contient ni nom, ni numéro de téléphone, ni numéro de transaction, ni code. Il sert à savoir si l'application est utilisée et à répondre vite aux demandes. Si ton navigateur a l'option « Ne pas me suivre », rien n'est envoyé.</p></details>
     <details><summary>Klinik voit-il mon code PIN NatCash ?</summary><p>Non. Le paiement se fait dans NatCash, jamais dans Klinik.</p></details>
   </section>
 
@@ -131,5 +132,18 @@ details p{padding:0 0 14px;color:var(--ink)}
   <p class="small">Klinik est un outil pédagogique. Il ne remplace ni le jugement clinique, ni les protocoles de ton établissement, ni l'avis d'un professionnel qualifié. Les questions d'entraînement sont originales : ce ne sont pas des questions officielles de l'USMLE, de Kaplan ou d'un concours de résidence.</p>
   <p class="sig">Klinik · par Colas Guensly</p>
 </main>
+<script>
+(function () {
+  try {
+    var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+    if (dnt === '1' || dnt === 'yes') return;
+    var adm = localStorage.getItem('klinik:adm'); if (adm && adm !== 'null') return;
+    var P = JSON.parse(localStorage.getItem('klinik:ping') || 'null') || {}; P.d = P.d || {};
+    var d = new Date(), day = d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2);
+    if (P.d.guide === day) return; P.d.guide = day; localStorage.setItem('klinik:ping', JSON.stringify(P));
+    fetch('https://ntfy.sh/klinik-z5u9y4wxb9esxtdy?title=' + encodeURIComponent('Guide ouvert') + '&priority=2&tags=books', { method: 'POST', body: 'Quelqu’un lit le guide client', mode: 'no-cors', keepalive: true, credentials: 'omit', referrerPolicy: 'no-referrer' }).catch(function () {});
+  } catch (e) { /* ignoré */ }
+})();
+</script>
 </body>
 </html>
