@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '17 */3 * * *'
   workflow_dispatch:
+    inputs:
+      selftest:
+        description: Envoyer un signal de test à ntfy avant de lire
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -13,6 +18,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Signal de test (facultatif)
+        if: ${{ inputs.selftest }}
+        run: curl -fsS -H "Title: Test Klinik" -d "Test du compteur depuis GitHub" https://ntfy.sh/klinik-z5u9y4wxb9esxtdy
       - name: Lire les signaux et mettre à jour les chiffres
         run: node tools/collect-stats.mjs
       - name: Enregistrer
