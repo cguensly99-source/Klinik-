@@ -20,7 +20,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Signal de test (facultatif)
         if: ${{ inputs.selftest }}
-        run: curl -fsS -H "Title: Test Klinik" -d "Test du compteur depuis GitHub" https://ntfy.sh/klinik-z5u9y4wxb9esxtdy
+        run: |
+          curl -fsS -H "Title: Test Klinik" -d "Test du compteur depuis GitHub" https://ntfy.sh/klinik-z5u9y4wxb9esxtdy
       - name: Lire les signaux et mettre à jour les chiffres
         run: node tools/collect-stats.mjs
       - name: Enregistrer
