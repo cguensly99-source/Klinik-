@@ -192,13 +192,15 @@
 "https://www.who.int/publications/i/item/9789292800024": [
 "derma-semiologie",
 "derma-infections-bacteriennes",
-"derma-mycoses-parasitoses"
+"derma-mycoses-parasitoses",
+"candidat"
 ],
 "https://www.who.int/news/item/08-06-2018-recognizing-neglected-skin-diseases-who-publishes-pictorial-training-guide": [
 "derma-semiologie"
 ],
 "https://www.cyberderm.net/learn/basic-lesions": [
-"derma-semiologie"
+"derma-semiologie",
+"candidat"
 ],
 "https://pubmed.ncbi.nlm.nih.gov/24973422/": [
 "derma-infections-bacteriennes",
@@ -235,7 +237,8 @@
 "derma-tumeurs"
 ],
 "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation": [
-"derma-tumeurs"
+"derma-tumeurs",
+"candidat"
 ],
 "https://academic.oup.com/bjd/article/174/6/1194/6617016": [
 "derma-urgences"
@@ -244,7 +247,8 @@
 "derma-urgences"
 ],
 "https://www.who.int/news-room/fact-sheets/detail/meningitis": [
-"derma-urgences"
+"derma-urgences",
+"candidat"
 ],
 "https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-standards-care-diabetes-2026": [
 "endo-diabete-type-2",
@@ -371,7 +375,8 @@
 "gyneco-cancer-col"
 ],
 "https://www.who.int/publications/i/item/9789241549912": [
-"gyneco-infections-grossesse"
+"gyneco-infections-grossesse",
+"candidat"
 ],
 "https://www.who.int/health-topics/hiv-aids": [
 "gyneco-infections-grossesse",
@@ -729,5 +734,38 @@
 ],
 "https://goldcopd.org/": [
 "urgence-detresse-respiratoire"
+],
+"https://experts.umn.edu/en/publications/red-blood-cell-transfusion-2023-aabb-international-guidelines/": [
+"candidat"
+],
+"https://www.isbtweb.org/resource/red-blood-cell-transfusion-2023-aabb-international-guidelines.html": [
+"candidat"
+],
+"https://app.magicapp.org/summary/guideline_9508.html": [
+"candidat"
+],
+"https://www.who.int/teams/global-malaria-programme/guidelines-for-malaria": [
+"candidat"
+],
+"https://www.who.int/news/item/16-02-2021-who-launches-consolidated-guidelines-for-malaria": [
+"candidat"
+],
+"https://researchconnect.stonybrook.edu/en/publications/potassium-homeostasis-and-management-of-dyskalemia-in-kidney-dise/": [
+"candidat"
+],
+"https://www.who.int/news-room/fact-sheets/detail/injuries-and-violence": [
+"candidat"
+],
+"https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries": [
+"candidat"
+],
+"https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/incidents-poisonings/prevention-and-management-of-cases-of-poisoning": [
+"candidat"
+],
+"https://www.who.int/publications/i/item/guidelines-for-poison-control": [
+"candidat"
+],
+"https://www.who.int/news-room/fact-sheets/detail/poisoning-prevention-and-management": [
+"candidat"
 ]
 }
