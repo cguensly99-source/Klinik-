@@ -1,0 +1,34 @@
+name: Veille médicale
+on:
+  schedule:
+    - cron: '23 7 * * 1,4'
+  workflow_dispatch:
+    inputs:
+      links:
+        description: Vérifier aussi les liens des références
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: veille
+  cancel-in-progress: false
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Interroger PubMed (et vérifier les liens le lundi)
+        run: |
+          if [ "${{ inputs.links }}" = "true" ] || [ "$(date -u +%u)" = "1" ]; then node tools/veille.mjs --links; else node tools/veille.mjs; fi
+      - name: Enregistrer
+        run: |
+          git config user.name "klinik-bot"
+          git config user.email "klinik-bot@users.noreply.github.com"
+          git add -A veille
+          if git diff --cached --quiet; then echo "Rien de nouveau"; else
+            git commit -m "Veille médicale" && git pull --rebase -q && git push
+          fi

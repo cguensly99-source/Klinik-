@@ -1,0 +1,35 @@
+name: Annonces des nouveautés
+on:
+  push:
+    branches: [main]
+    paths: ['news.json']
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Renvoyer la dernière annonce (test)
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: annonces
+  cancel-in-progress: false
+jobs:
+  annonce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Envoyer l’annonce
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then node tools/annonce.mjs --force; else node tools/annonce.mjs; fi
+      - name: Enregistrer
+        run: |
+          git config user.name "klinik-bot"
+          git config user.email "klinik-bot@users.noreply.github.com"
+          git add -A veille
+          if git diff --cached --quiet; then echo "Rien de nouveau"; else
+            git commit -m "Annonce envoyée" && git pull --rebase -q && git push
+          fi

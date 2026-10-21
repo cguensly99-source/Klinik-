@@ -1,0 +1,102 @@
+[
+ {
+  "id": "2026-10-21-psy-derma",
+  "date": "2026-10-21",
+  "title": "Psychiatrie et dermatologie ajoutées",
+  "items": [
+   "Psychiatrie, 8 chapitres : examen psychiatrique, dépression, anxiété et stress post-traumatique, psychoses, trouble bipolaire, risque suicidaire, addictions, delirium.",
+   "Dermatologie, 6 chapitres : sémiologie, infections bactériennes, mycoses, gale et poux, eczéma et urticaire, tumeurs cutanées et mélanome, urgences (Stevens-Johnson, DRESS, purpura fulminans).",
+   "Deux nouveaux cas cliniques : dépression avec idées suicidaires, et gale surinfectée avec glomérulonéphrite chez l’enfant. Références : OMS mhGAP, CANMAT 2018, IDSA 2014, NICE, AAD, ESMO."
+  ]
+ },
+ {
+  "id": "2026-10-21-veille",
+  "date": "2026-10-21",
+  "title": "Veille médicale et annonces automatiques",
+  "items": [
+   "Un robot interroge PubMed deux fois par semaine pour chaque sujet de Klinik et signale les nouvelles recommandations dans l’écran Nouveautés (rubrique « Veille médicale »).",
+   "Ces publications sont signalées avant relecture : elles ne modifient pas les fiches tant qu’elles n’ont pas été lues et intégrées.",
+   "Tu peux recevoir les annonces de mise à jour sur ton téléphone : abonnement gratuit en bas de l’écran Nouveautés."
+  ]
+ },
+ {
+  "id": "2026-10-21-abdo-neuro",
+  "date": "2026-10-21",
+  "title": "Gastro-entérologie et neurologie complétées",
+  "items": [
+   "Gastro-entérologie et hépatologie, 8 chapitres : hémorragie digestive, ulcère et H. pylori, ictère et hépatites, cirrhose, pancréatite aiguë, diarrhée, lithiase biliaire, occlusion et appendicite.",
+   "Neurologie, 8 chapitres : épilepsie, méningites et encéphalites, céphalées, vertiges, neuropathies et Guillain-Barré, démences, Parkinson, AVC et prévention secondaire.",
+   "Deux nouveaux cas cliniques avancés : hémorragie digestive chez un cirrhotique, méningite avec purpura. Références : Baveno VII, ESGE 2021, ACG 2024, OMS 2025, AHA/ASA 2026."
+  ]
+ },
+ {
+  "id": "2026-10-20-hemato",
+  "date": "2026-10-20",
+  "title": "Nouveau système : hématologie",
+  "items": [
+   "Hématologie, 6 chapitres : anémies, drépanocytose, syndrome hémorragique et troubles de l’hémostase, adénopathies et suspicion d’hémopathie maligne, transfusion et accidents transfusionnels, thrombose et anticoagulants.",
+   "Nouveau cas clinique avancé : adolescent drépanocytaire avec crise douloureuse compliquée d’un syndrome thoracique aigu.",
+   "Références : OMS 2024 (anémie), ASH 2020, AABB 2023, Fédération mondiale de l’hémophilie."
+  ]
+ },
+ {
+  "id": "2026-10-19-respi-nephro",
+  "date": "2026-10-19",
+  "title": "Nouveau système : néphrologie et urologie ; pneumologie complétée",
+  "items": [
+   "Néphrologie et urologie, 7 chapitres : insuffisance rénale aiguë, maladie rénale chronique, hyponatrémie et dyskaliémies, syndromes néphrotique et néphritique, infections urinaires, colique néphrétique, hyperplasie de la prostate et rétention d’urine.",
+   "Pneumologie, 5 nouveaux chapitres : asthme, BPCO, pneumonie, épanchement pleural et pneumothorax, hémoptysie et toux chronique.",
+   "Deux nouveaux cas cliniques : asthme aigu grave, rétention d’urine avec insuffisance rénale. Références : GINA 2026, GOLD, KDIGO, EAU, IDSA 2025."
+  ]
+ },
+ {
+  "id": "2026-10-19-endo-cardio",
+  "date": "2026-10-19",
+  "title": "Nouveau système : endocrinologie ; cardiologie complétée",
+  "items": [
+   "Endocrinologie et métabolisme, 7 chapitres : diabète de type 2, acidocétose, hypoglycémie, hypothyroïdie, hyperthyroïdie et goitre, obésité et dyslipidémies, insuffisance surrénale.",
+   "Cardiologie, 7 nouveaux chapitres : HTA, syncope et palpitations, fibrillation atriale, syndrome coronarien aigu, thrombose et embolie pulmonaire, valvulopathies et rhumatisme articulaire aigu, endocardite.",
+   "Deux nouveaux cas cliniques : acidocétose révélatrice d’un diabète de type 1, endocardite chez un valvulaire. Références : ESC 2023 à 2025, ADA 2026, OMS."
+  ]
+ },
+ {
+  "id": "2026-10-19-urgence",
+  "date": "2026-10-19",
+  "title": "Nouveau système : urgences et réanimation",
+  "items": [
+   "7 chapitres : arrêt cardiaque et RCP, état de choc, polytraumatisé (ABCDE), brûlures, anaphylaxie, intoxications et envenimations, détresse respiratoire et oxygénothérapie.",
+   "Un cas clinique de niveau avancé : accident de moto avec pneumothorax sous tension et hémorragie.",
+   "Références récentes : AHA et ERC 2025, Surviving Sepsis Campaign 2026, EAACI 2021, OMS."
+  ]
+ },
+ {
+  "id": "2026-10-18-pedia-gyneco",
+  "date": "2026-10-18",
+  "title": "Nouveaux systèmes : pédiatrie et gynécologie-obstétrique",
+  "items": [
+   "Pédiatrie, 8 chapitres : nouveau-né, croissance et vaccination, diarrhée et déshydratation, bronchiolite et pneumonie, malnutrition, fièvre et convulsions, ictère et infection néonatale, PCIME.",
+   "Gynécologie-obstétrique, 10 chapitres : suivi prénatal, pré-éclampsie, hémorragies du post-partum et du troisième trimestre, saignements du premier trimestre, accouchement, contraception, leucorrhées, cancer du col, infections de la grossesse.",
+   "Deux nouveaux cas cliniques : diarrhée et déshydratation du nourrisson, hémorragie du post-partum. Chaque fiche renvoie au collège de sa spécialité (CNPU, CNGOF) et cite ses références."
+  ]
+ },
+ {
+  "id": "2026-10-18-infect",
+  "date": "2026-10-18",
+  "title": "Nouveau système : maladies infectieuses et tropicales",
+  "items": [
+   "10 chapitres : paludisme, tuberculose, VIH et sida, fièvre typhoïde, dengue et autres arboviroses, choléra, leptospirose, IST, tétanos, filariose et helminthiases.",
+   "Un cas clinique à dérouler : fièvre et somnolence chez une femme enceinte (paludisme grave).",
+   "Le premier chapitre est gratuit. Chaque fiche cite ses références (OMS, CDC, OPS) et renvoie au collège de la spécialité (CMIT)."
+  ]
+ },
+ {
+  "id": "2026-10-18",
+  "date": "2026-10-18",
+  "title": "Nouveaux systèmes et chapitres, collège de référence sur chaque fiche",
+  "items": [
+   "Klinik passe de la sémiologie seule à des chapitres pathologie par pathologie, système par système.",
+   "Chaque fiche indique le collège de sa spécialité (ouvrage de référence à consulter) et cite ses recommandations.",
+   "Chaque chapitre a trois QCM, dont un cas clinique de type concours, et chaque système a un cas à dérouler."
+  ]
+ }
+]

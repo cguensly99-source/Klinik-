@@ -1,0 +1,733 @@
+{
+"https://pubmed.ncbi.nlm.nih.gov/33567467/": [
+"abdo-hemorragie-digestive",
+"abdo-dyspepsie-ulcere"
+],
+"https://pubmed.ncbi.nlm.nih.gov/35120736/": [
+"abdo-hemorragie-digestive",
+"abdo-cirrhose",
+"cas-hemorragie-digestive-cirrhose"
+],
+"https://www.mspp.gouv.ht/": [
+"abdo-hemorragie-digestive",
+"abdo-dyspepsie-ulcere",
+"abdo-ictere-hepatites",
+"abdo-cirrhose",
+"abdo-pancreatite-aigue",
+"abdo-diarrhee",
+"abdo-lithiase-biliaire",
+"abdo-occlusion-appendicite",
+"cas-hemorragie-digestive-cirrhose",
+"cardio-hta",
+"cardio-syncope-palpitations",
+"cardio-fibrillation-atriale",
+"cardio-sca",
+"cardio-tvp-ep",
+"cardio-valvulopathies",
+"cardio-endocardite",
+"derma-semiologie",
+"derma-infections-bacteriennes",
+"derma-mycoses-parasitoses",
+"derma-eczema-urticaire",
+"derma-tumeurs",
+"derma-urgences",
+"cas-gale-impetigo-glomerulonephrite",
+"endo-diabete-type-2",
+"endo-acidocetose",
+"endo-hypoglycemie",
+"endo-hypothyroidie",
+"endo-hyperthyroidie-goitre",
+"endo-obesite-dyslipidemie",
+"endo-insuffisance-surrenale",
+"gyneco-hemorragie-post-partum",
+"gyneco-saignements-t1",
+"gyneco-saignements-t3",
+"gyneco-accouchement",
+"gyneco-contraception",
+"gyneco-leucorrhees",
+"gyneco-cancer-col",
+"gyneco-infections-grossesse",
+"hemato-anemies",
+"hemato-drepanocytose",
+"hemato-hemostase",
+"hemato-adenopathies-hemopathies",
+"hemato-transfusion",
+"hemato-thrombose-anticoagulants",
+"cas-drepanocytose-syndrome-thoracique",
+"infect-paludisme",
+"infect-tuberculose",
+"infect-vih-sida",
+"infect-fievre-typhoide",
+"infect-arboviroses",
+"infect-cholera",
+"infect-leptospirose",
+"infect-ist",
+"infect-tetanos",
+"infect-filariose-helminthiases",
+"nephro-ira",
+"nephro-mrc",
+"nephro-hydro-electrolytique",
+"nephro-syndromes-glomerulaires",
+"nephro-infections-urinaires",
+"nephro-lithiase-colique",
+"nephro-hbp-retention",
+"cas-retention-insuffisance-renale",
+"neuro-epilepsie",
+"neuro-meningite-encephalite",
+"neuro-cephalees",
+"neuro-vertiges",
+"neuro-neuropathies",
+"neuro-demences",
+"neuro-parkinson",
+"neuro-avc-prise-en-charge",
+"cas-meningite-purpura",
+"pedia-examen-nouveau-ne",
+"pedia-croissance-vaccination",
+"pedia-deshydratation-diarrhee",
+"pedia-bronchiolite-pneumonie",
+"pedia-malnutrition",
+"pedia-fievre-convulsions",
+"pedia-ictere-infection-neonatale",
+"pedia-pcime",
+"psy-examen-psychiatrique",
+"psy-depression",
+"psy-anxiete-trauma",
+"psy-psychoses",
+"psy-bipolaire",
+"psy-risque-suicidaire",
+"psy-addictions",
+"psy-delirium",
+"cas-depression-idees-suicidaires",
+"respi-asthme",
+"respi-bpco",
+"respi-pneumonie",
+"respi-pleural",
+"respi-hemoptysie-toux-chronique",
+"urgence-arret-cardiaque",
+"urgence-etat-de-choc",
+"urgence-polytraumatise",
+"urgence-brulures",
+"urgence-anaphylaxie",
+"urgence-intoxications-envenimations",
+"urgence-detresse-respiratoire"
+],
+"https://pubmed.ncbi.nlm.nih.gov/39626064/": [
+"abdo-dyspepsie-ulcere"
+],
+"https://www.who.int/publications/i/item/9789240090903": [
+"abdo-ictere-hepatites"
+],
+"https://www.who.int/news-room/fact-sheets/detail/hepatitis-b": [
+"abdo-ictere-hepatites"
+],
+"https://www.aasld.org/practice-guidelines/diagnosis-evaluation-and-management-ascites-spontaneous-bacterial-peritonitis": [
+"abdo-cirrhose",
+"cas-hemorragie-digestive-cirrhose"
+],
+"https://www.the-hospitalist.org/hospitalist/article/41218/critical-care/applying-the-2024-acg-guidelines-on-acute-pancreatitis-to-hospital-medicine/": [
+"abdo-pancreatite-aigue"
+],
+"https://www.guidelinecentral.com/guideline/12896/": [
+"abdo-pancreatite-aigue"
+],
+"https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease": [
+"abdo-diarrhee",
+"pedia-deshydratation-diarrhee",
+"cas-diarrhee-deshydratation"
+],
+"https://gastro.org/press-releases/aga-releases-guideline-on-the-evaluation-of-chronic-diarrhea-1/": [
+"abdo-diarrhee"
+],
+"https://www.research.ed.ac.uk/en/publications/tokyo-guidelines-2018-diagnostic-criteria-and-severity-grading-of/": [
+"abdo-lithiase-biliaire"
+],
+"https://pubmed.ncbi.nlm.nih.gov/29032610/": [
+"abdo-lithiase-biliaire"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163": [
+"abdo-occlusion-appendicite"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC6006983": [
+"abdo-occlusion-appendicite"
+],
+"https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/All-ESC-Practice-Guidelines/elevated-blood-pressure-and-hypertension": [
+"cardio-hta"
+],
+"https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/09/05/14/11/2024-esc-guidelines-for-bp-esc-2024": [
+"cardio-hta"
+],
+"https://www.who.int/news-room/fact-sheets/detail/hypertension": [
+"cardio-hta"
+],
+"https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/": [
+"cardio-syncope-palpitations",
+"cardio-fibrillation-atriale",
+"cardio-sca",
+"cardio-tvp-ep",
+"cardio-valvulopathies",
+"cardio-endocardite",
+"cas-endocardite-fievre-prolongee"
+],
+"https://www.who.int/health-topics/cardiovascular-diseases": [
+"cardio-syncope-palpitations",
+"cardio-tvp-ep",
+"cardio-endocardite",
+"cas-endocardite-fievre-prolongee"
+],
+"https://www.escardio.org/Guidelines": [
+"cardio-fibrillation-atriale",
+"cardio-sca",
+"endo-obesite-dyslipidemie",
+"hemato-thrombose-anticoagulants"
+],
+"https://www.acc.org/latest-in-cardiology/articles/2020/07/10/08/44/2019-esc-guidelines-for-the-diagnosis-and-management-of-acute-pe": [
+"cardio-tvp-ep"
+],
+"https://www.eacts.org/clinical-practice-guideline/2025-esc-eacts-guidelines-for-the-management-of-valvular-heart-disease-developed-by-the-task-force-for-the-management-of-valvular-heart-disease-of-the-european-society-of-cardiology-esc-and-the-eur/": [
+"cardio-valvulopathies"
+],
+"https://www.escardio.org/The-ESC/Press-Office/Press-releases/New-ESC-EACTS-Guidelines-Guidelines-for-Valvular-Heart-Disease-will-help-prevent-under-treatment-of-patients-and-support": [
+"cardio-valvulopathies"
+],
+"https://www.who.int/publications/i/item/9789292800024": [
+"derma-semiologie",
+"derma-infections-bacteriennes",
+"derma-mycoses-parasitoses"
+],
+"https://www.who.int/news/item/08-06-2018-recognizing-neglected-skin-diseases-who-publishes-pictorial-training-guide": [
+"derma-semiologie"
+],
+"https://www.cyberderm.net/learn/basic-lesions": [
+"derma-semiologie"
+],
+"https://pubmed.ncbi.nlm.nih.gov/24973422/": [
+"derma-infections-bacteriennes",
+"cas-gale-impetigo-glomerulonephrite"
+],
+"https://www.nice.org.uk/guidance/ng141/chapter/Recommendations": [
+"derma-infections-bacteriennes"
+],
+"https://www.who.int/news-room/fact-sheets/detail/scabies": [
+"derma-mycoses-parasitoses",
+"cas-gale-impetigo-glomerulonephrite"
+],
+"https://ncbi.nlm.nih.gov/pubmed/31906842": [
+"derma-mycoses-parasitoses"
+],
+"https://www.healthychildren.org/English/news/Pages/controlling-head-lice-and-reducing-stigma.aspx": [
+"derma-mycoses-parasitoses"
+],
+"https://www.aad.org/practicecenter/quality/clinical-guidelines/atopic-dermatitis": [
+"derma-eczema-urticaire"
+],
+"https://research.regionh.dk/da/publications/the-international-eaacigaleneuroguidermapaaaci-guideline-for-the-/": [
+"derma-eczema-urticaire"
+],
+"https://pubmed.ncbi.nlm.nih.gov/34343358/": [
+"derma-eczema-urticaire",
+"derma-urgences",
+"urgence-anaphylaxie"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7618628/": [
+"derma-tumeurs"
+],
+"https://pubmed.ncbi.nlm.nih.gov/25698455/": [
+"derma-tumeurs"
+],
+"https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation": [
+"derma-tumeurs"
+],
+"https://academic.oup.com/bjd/article/174/6/1194/6617016": [
+"derma-urgences"
+],
+"https://pubmed.ncbi.nlm.nih.gov/21592453/": [
+"derma-urgences"
+],
+"https://www.who.int/news-room/fact-sheets/detail/meningitis": [
+"derma-urgences"
+],
+"https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-standards-care-diabetes-2026": [
+"endo-diabete-type-2",
+"endo-acidocetose",
+"endo-hypoglycemie",
+"endo-obesite-dyslipidemie"
+],
+"https://www.who.int/news-room/fact-sheets/detail/diabetes": [
+"endo-diabete-type-2",
+"endo-acidocetose",
+"endo-hypoglycemie",
+"endo-hypothyroidie",
+"cas-acidocetose-revelatrice"
+],
+"https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight": [
+"endo-diabete-type-2",
+"endo-obesite-dyslipidemie"
+],
+"https://consultqd.clevelandclinic.org/hyperglycemic-crises-in-adults-the-2024-consensus-report": [
+"endo-acidocetose",
+"cas-acidocetose-revelatrice"
+],
+"https://www.endocrine.org/clinical-practice-guidelines": [
+"endo-hypoglycemie",
+"endo-insuffisance-surrenale"
+],
+"https://www.thyroid.org/ata-professional-guidelines/": [
+"endo-hypothyroidie",
+"endo-hyperthyroidie-goitre"
+],
+"https://www.who.int/health-topics/nutrition": [
+"endo-hyperthyroidie-goitre"
+],
+"https://academic.oup.com/jcem/article/101/2/364/2810333": [
+"endo-insuffisance-surrenale"
+],
+"https://apo.who.int/publications/i/item/9789241549912": [
+"gyneco-suivi-prenatal"
+],
+"https://www.who.int/news/item/07-11-2016-new-guidelines-on-antenatal-care-for-a-positive-pregnancy-experience": [
+"gyneco-suivi-prenatal"
+],
+"https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees": [
+"gyneco-suivi-prenatal"
+],
+"https://publications.smfm.org/publications/433-acog-smfm-practice-advisory-low-dose-aspirin-use/": [
+"gyneco-suivi-prenatal"
+],
+"https://www.prb.org/wp-content/uploads/2020/06/Haiti-Manuel-de-Normes-en-Planification-Familiale-et-en-Soins-Maternels-2009.pdf": [
+"gyneco-suivi-prenatal"
+],
+"https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia": [
+"gyneco-preeclampsie"
+],
+"https://www.who.int/publications/i/item/9789241548335": [
+"gyneco-preeclampsie"
+],
+"https://pubmed.ncbi.nlm.nih.gov/35066406/": [
+"gyneco-preeclampsie"
+],
+"https://www.reseau-naissance.fr/medias/2023/12/RPC-GNGOF-PE-moderee-N.Winer-compresse.pdf": [
+"gyneco-preeclampsie"
+],
+"https://www.aafp.org/pubs/afp/issues/2019/1115/p649.html": [
+"gyneco-preeclampsie"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC10214639": [
+"gyneco-preeclampsie"
+],
+"https://www.who.int/news/item/05-10-2025-global-health-agencies-issue-new-recommendations-to-help-end-deaths-from-postpartum-haemorrhage": [
+"gyneco-hemorragie-post-partum",
+"cas-hemorragie-post-partum"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12678032/": [
+"gyneco-hemorragie-post-partum"
+],
+"https://cngof.fr/": [
+"gyneco-hemorragie-post-partum",
+"gyneco-saignements-t1",
+"gyneco-saignements-t3",
+"gyneco-accouchement",
+"gyneco-contraception",
+"gyneco-leucorrhees",
+"gyneco-cancer-col",
+"cas-hemorragie-post-partum"
+],
+"https://www.nice.org.uk/guidance/ng126": [
+"gyneco-saignements-t1"
+],
+"https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/": [
+"gyneco-saignements-t1",
+"gyneco-saignements-t3"
+],
+"https://www.who.int/health-topics/maternal-health": [
+"gyneco-saignements-t3"
+],
+"https://www.who.int/news/item/15-12-2020-monitoring-childbirth-in-a-new-era-for-maternal-health": [
+"gyneco-accouchement"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8274635/": [
+"gyneco-accouchement"
+],
+"https://www.who.int/publications/i/item/9789241549158": [
+"gyneco-contraception"
+],
+"https://www.who.int/health-topics/contraception": [
+"gyneco-contraception"
+],
+"https://iris.who.int/handle/10665/378230": [
+"gyneco-leucorrhees",
+"gyneco-infections-grossesse",
+"infect-ist"
+],
+"https://www.cdc.gov/std/treatment-guidelines/default.htm": [
+"gyneco-leucorrhees"
+],
+"https://www.who.int/publications-detail-redirect/9789240030824": [
+"gyneco-cancer-col"
+],
+"https://www.who.int/news/item/06-07-2021-q-and-a-screening-and-treatment-cervical-pre-cancer-lesions-for-cervical-cancer-prevention": [
+"gyneco-cancer-col"
+],
+"https://www.who.int/news-room/fact-sheets/detail/cervical-cancer": [
+"gyneco-cancer-col"
+],
+"https://www.who.int/publications/i/item/9789241549912": [
+"gyneco-infections-grossesse"
+],
+"https://www.who.int/health-topics/hiv-aids": [
+"gyneco-infections-grossesse",
+"infect-vih-sida"
+],
+"https://www.who.int/publications-detail-redirect/9789240088542": [
+"hemato-anemies"
+],
+"https://www.who.int/publications-detail/9789240000124": [
+"hemato-anemies"
+],
+"https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease": [
+"hemato-drepanocytose",
+"cas-drepanocytose-syndrome-thoracique"
+],
+"https://pubmed.ncbi.nlm.nih.gov/32559294/": [
+"hemato-drepanocytose",
+"cas-drepanocytose-syndrome-thoracique"
+],
+"https://who.int/publications/i/item/9789240109124": [
+"hemato-drepanocytose"
+],
+"https://wfh.org/now-published-the-wfh-guidelines-for-the-management-of-hemophilia-3rd-edition/": [
+"hemato-hemostase"
+],
+"https://pubmed.ncbi.nlm.nih.gov/11816725/": [
+"hemato-hemostase"
+],
+"https://www.aafp.org/afp/2016/1201/p896.html": [
+"hemato-adenopathies-hemopathies"
+],
+"https://smw.ch/index.php/smw/article/download/3549/6008?inline=1": [
+"hemato-adenopathies-hemopathies"
+],
+"https://aabb.org/news-resources/news/article/2023/10/12/new-red-blood-cell-transfusion-guidelines-recommend-an-individualized-approach": [
+"hemato-transfusion"
+],
+"https://www.who.int/publications/i/item/9789240121546": [
+"hemato-transfusion"
+],
+"https://pubmed.ncbi.nlm.nih.gov/33007077/": [
+"hemato-thrombose-anticoagulants"
+],
+"https://app.magicapp.org/summary/guideline_9683.html": [
+"infect-paludisme",
+"cas-paludisme-grave"
+],
+"https://link.springer.com/doi/10.1186/2052-3211-6-10": [
+"infect-paludisme"
+],
+"https://www.who.int/health-topics/malaria": [
+"infect-paludisme",
+"cas-paludisme-grave",
+"pedia-fievre-convulsions"
+],
+"https://www.who.int/publications/i/item/9789240107243": [
+"infect-tuberculose",
+"respi-hemoptysie-toux-chronique"
+],
+"https://www.who.int/publications/i/item/9789240108141": [
+"infect-tuberculose"
+],
+"https://www.who.int/health-topics/tuberculosis": [
+"infect-tuberculose",
+"respi-pleural",
+"respi-hemoptysie-toux-chronique"
+],
+"https://www.who.int/publications/i/item/9789240118164": [
+"infect-vih-sida"
+],
+"https://cdc.gov/typhoid-fever/hcp/clinical-guidance/index.html": [
+"infect-fievre-typhoide"
+],
+"https://www.who.int/publications/i/item/typhoid-vaccines-who-position-paper-march-2018": [
+"infect-fievre-typhoide"
+],
+"https://www.who.int/publications/i/item/9789240111110": [
+"infect-arboviroses"
+],
+"https://www.who.int/news/item/10-07-2025-new-who-guidelines-for-clinical-management-of-arboviral-diseases--dengue--chikungunya--zika-and-yellow-fever": [
+"infect-arboviroses"
+],
+"https://www.who.int/health-topics/dengue-and-severe-dengue": [
+"infect-arboviroses"
+],
+"https://www.who.int/news-room/fact-sheets/detail/cholera": [
+"infect-cholera",
+"pedia-deshydratation-diarrhee"
+],
+"https://www.paho.org/en/documents/cholera-outbreak-haiti-2022-situation-report-1": [
+"infect-cholera"
+],
+"https://www.who.int/publications/i/item/B4221": [
+"infect-leptospirose"
+],
+"https://www.ecdc.europa.eu/en/leptospirosis/factsheet": [
+"infect-leptospirose"
+],
+"https://www.who.int/health-topics/sexually-transmitted-infections": [
+"infect-ist"
+],
+"https://www.who.int/publications/i/item/WER9206": [
+"infect-tetanos"
+],
+"https://www.who.int/health-topics/tetanus": [
+"infect-tetanos"
+],
+"https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis": [
+"infect-filariose-helminthiases"
+],
+"https://www.paho.org/sites/default/files/2022-03/whd14-factsheet-lymphatic-filariasis.pdf": [
+"infect-filariose-helminthiases"
+],
+"https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections": [
+"infect-filariose-helminthiases"
+],
+"https://kdigo.org/kdigo-2026-aki-akd-guideline-draft-available-for-public-review/": [
+"nephro-ira"
+],
+"https://kdigo.org/guidelines/": [
+"nephro-ira",
+"nephro-mrc",
+"nephro-syndromes-glomerulaires",
+"cas-retention-insuffisance-renale"
+],
+"https://pubmed.ncbi.nlm.nih.gov/38490803/": [
+"nephro-mrc"
+],
+"https://pubmed.ncbi.nlm.nih.gov/24569496/": [
+"nephro-hydro-electrolytique"
+],
+"https://www.medthority.com/journals/fluid-and-electrolyte-disorders/potassium-homeostasis-and-management-of-dyskalemia-in-kidney-diseases-conclusions-from-a-kidney-disease-improving-global-outcomes-kdigo-controversies-conference/": [
+"nephro-hydro-electrolytique"
+],
+"https://hal.sorbonne-universite.fr/hal-03915859": [
+"nephro-syndromes-glomerulaires"
+],
+"https://uroweb.org/guidelines/urological-infections": [
+"nephro-infections-urinaires",
+"nephro-lithiase-colique"
+],
+"https://www.guidelinecentral.com/guideline/4736978/": [
+"nephro-infections-urinaires"
+],
+"https://uroweb.org/guidelines/urolithiasis": [
+"nephro-lithiase-colique"
+],
+"https://uroluts.uroweb.org/publication/eau-guidelines-on-the-assessment-of-non-neurogenic-male-lower-urinary-tract-symptoms-including-benign-prostatic-obstruction/": [
+"nephro-hbp-retention"
+],
+"https://research.regionh.dk/da/publications/eau-guidelines-on-the-treatment-and-follow-up-of-non-neurogenic-m/": [
+"nephro-hbp-retention",
+"cas-retention-insuffisance-renale"
+],
+"https://pubmed.ncbi.nlm.nih.gov/40264351/": [
+"neuro-epilepsie"
+],
+"https://www.who.int/news-room/fact-sheets/detail/epilepsy": [
+"neuro-epilepsie"
+],
+"https://www.who.int/news/item/10-04-2025-who-launches-first-ever-guidelines-on-meningitis-diagnosis--treatment-and-care": [
+"neuro-meningite-encephalite",
+"cas-meningite-purpura"
+],
+"https://boris.unibe.ch/83511": [
+"neuro-meningite-encephalite",
+"cas-meningite-purpura"
+],
+"https://ichd-3.org/": [
+"neuro-cephalees"
+],
+"https://practicalneurology.com/articles/2020-may/diagnosing-secondary-headaches": [
+"neuro-cephalees"
+],
+"https://pubmed.ncbi.nlm.nih.gov/28248609/": [
+"neuro-vertiges"
+],
+"https://professional.heart.org/en/guidelines-statements/2026-guideline-for-the-early-management-of-patients-with-acute-ischemic-strokestr0000000000000513": [
+"neuro-vertiges",
+"neuro-avc-prise-en-charge"
+],
+"https://pubmed.ncbi.nlm.nih.gov/37814552/": [
+"neuro-neuropathies"
+],
+"https://www.who.int/news-room/fact-sheets/detail/poliomyelitis": [
+"neuro-neuropathies"
+],
+"https://www.who.int/news/item/14-05-2019-adopting-a-healthy-lifestyle-helps-reduce-the-risk-of-dementia": [
+"neuro-demences"
+],
+"https://www.who.int/news-room/fact-sheets/detail/dementia": [
+"neuro-demences"
+],
+"https://who.int/news-room/fact-sheets/detail/parkinson-disease": [
+"neuro-parkinson"
+],
+"https://www.vumc.org/occam-bnnp/publication/mds-clinical-diagnostic-criteria-parkinsons-disease": [
+"neuro-parkinson"
+],
+"https://practicalneurology.com/news/guidelines-for-the-management-of-acute-ischemic-stroke-published/2485579/": [
+"neuro-avc-prise-en-charge"
+],
+"https://www.who.int/publications-detail-redirect/9789241503693": [
+"pedia-examen-nouveau-ne"
+],
+"https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing/newborn-health/essential-newborn-care": [
+"pedia-examen-nouveau-ne",
+"pedia-ictere-infection-neonatale"
+],
+"https://www.who.int/publications/i/item/9789241516365": [
+"pedia-examen-nouveau-ne",
+"pedia-bronchiolite-pneumonie",
+"pedia-fievre-convulsions",
+"pedia-ictere-infection-neonatale",
+"pedia-pcime"
+],
+"https://www.who.int/tools/child-growth-standards": [
+"pedia-croissance-vaccination"
+],
+"https://paho.org/sites/default/files/2021-10/haiti-2020-epi-country-report-english.pdf": [
+"pedia-croissance-vaccination"
+],
+"https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/who-recommendations-for-routine-immunization---summary-tables": [
+"pedia-croissance-vaccination"
+],
+"https://www.who.int/publications/i/item/978-92-4-154837-3": [
+"pedia-deshydratation-diarrhee",
+"pedia-bronchiolite-pneumonie",
+"pedia-malnutrition",
+"pedia-fievre-convulsions",
+"pedia-ictere-infection-neonatale",
+"pedia-pcime",
+"cas-diarrhee-deshydratation",
+"urgence-etat-de-choc",
+"urgence-detresse-respiratoire"
+],
+"https://www.who.int/news-room/fact-sheets/detail/pneumonia": [
+"pedia-bronchiolite-pneumonie",
+"respi-pneumonie"
+],
+"https://www.who.int/news/item/20-11-2023-who-issues-new-guideline-to-tackle-acute-malnutrition-in-children-under-five": [
+"pedia-malnutrition"
+],
+"https://www.who.int/news-room/fact-sheets/detail/malnutrition": [
+"pedia-malnutrition"
+],
+"https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing/child-health/integrated-management-of-childhood-illness": [
+"pedia-pcime"
+],
+"https://www.who.int/europe/publications/i/item/9789241549790": [
+"psy-examen-psychiatrique",
+"psy-depression",
+"psy-anxiete-trauma",
+"psy-psychoses",
+"psy-bipolaire",
+"psy-risque-suicidaire",
+"psy-addictions",
+"psy-delirium",
+"cas-depression-idees-suicidaires"
+],
+"https://www.who.int/news-room/fact-sheets/detail/mental-disorders": [
+"psy-examen-psychiatrique"
+],
+"https://www.who.int/news-room/fact-sheets/detail/depression": [
+"psy-depression"
+],
+"https://www.who.int/publications/i/item/9789241505406": [
+"psy-anxiete-trauma"
+],
+"https://www.who.int/news-room/fact-sheets/detail/schizophrenia": [
+"psy-psychoses"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC5947163/": [
+"psy-bipolaire"
+],
+"https://www.who.int/news-room/fact-sheets/detail/bipolar-disorder": [
+"psy-bipolaire"
+],
+"https://www.who.int/publications/i/item/9789240026629": [
+"psy-risque-suicidaire",
+"cas-depression-idees-suicidaires"
+],
+"https://www.who.int/news/item/17-06-2021-one-in-100-deaths-is-by-suicide": [
+"psy-risque-suicidaire"
+],
+"https://www.who.int/news-room/fact-sheets/detail/alcohol": [
+"psy-addictions"
+],
+"https://www.who.int/news-room/fact-sheets/detail/tobacco": [
+"psy-addictions"
+],
+"https://www.nice.org.uk/guidance/cg103": [
+"psy-delirium"
+],
+"https://ginasthma.org/2026-gina-strategy-report/": [
+"respi-asthme",
+"cas-asthme-aigu-grave"
+],
+"https://www.brit-thoracic.org.uk/quality-improvement/guidelines/emergency-oxygen": [
+"respi-asthme",
+"respi-bpco",
+"cas-asthme-aigu-grave",
+"urgence-detresse-respiratoire"
+],
+"https://goldcopd.org/2026-gold-report-and-pocket-guide/": [
+"respi-bpco"
+],
+"https://immattersacp.org/weekly/archives/2025/07/29/2.htm": [
+"respi-pneumonie"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11037506/": [
+"respi-pleural"
+],
+"https://www.ersnet.org/": [
+"respi-hemoptysie-toux-chronique"
+],
+"https://professional.heart.org/en/science-news/2025-aha-guidelines-for-cpr-and-ecc": [
+"urgence-arret-cardiaque",
+"urgence-polytraumatise"
+],
+"https://pubmed.ncbi.nlm.nih.gov/41117573/": [
+"urgence-arret-cardiaque"
+],
+"https://www.erc.edu/": [
+"urgence-arret-cardiaque"
+],
+"https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026": [
+"urgence-etat-de-choc"
+],
+"https://www.mayoclinic.org/medical-professionals/trauma/news/atls-update-what-trauma-professionals-need-to-know/mac-20602992": [
+"urgence-etat-de-choc",
+"urgence-polytraumatise",
+"urgence-brulures",
+"urgence-intoxications-envenimations",
+"cas-polytraumatise-moto"
+],
+"https://www.who.int/health-topics/injuries-and-violence": [
+"urgence-polytraumatise",
+"cas-polytraumatise-moto"
+],
+"https://www.who.int/news-room/fact-sheets/detail/burns": [
+"urgence-brulures"
+],
+"https://pubmed.ncbi.nlm.nih.gov/33204386/": [
+"urgence-anaphylaxie"
+],
+"https://www.who.int/en/news-room/fact-sheets/detail/snakebite-envenoming": [
+"urgence-intoxications-envenimations"
+],
+"https://www.who.int/health-topics/poisoning": [
+"urgence-intoxications-envenimations"
+],
+"https://ginasthma.org/": [
+"urgence-detresse-respiratoire"
+],
+"https://goldcopd.org/": [
+"urgence-detresse-respiratoire"
+]
+}

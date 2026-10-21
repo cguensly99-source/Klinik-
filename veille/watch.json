@@ -1,0 +1,911 @@
+[
+{
+"id": "abdo-hemorragie-digestive",
+"system": "abdo",
+"title": "Hémorragie digestive haute et basse",
+"terms": [
+"gastrointestinal bleeding",
+"variceal bleeding"
+]
+},
+{
+"id": "abdo-dyspepsie-ulcere",
+"system": "abdo",
+"title": "Dyspepsie, ulcère gastroduodénal et Helicobacter pylori",
+"terms": [
+"peptic ulcer",
+"helicobacter pylori"
+]
+},
+{
+"id": "abdo-ictere-hepatites",
+"system": "abdo",
+"title": "Ictère et hépatites virales",
+"terms": [
+"viral hepatitis",
+"jaundice"
+]
+},
+{
+"id": "abdo-cirrhose",
+"system": "abdo",
+"title": "Cirrhose et ses complications",
+"terms": [
+"cirrhosis",
+"ascites"
+]
+},
+{
+"id": "abdo-pancreatite-aigue",
+"system": "abdo",
+"title": "Pancréatite aiguë",
+"terms": [
+"acute pancreatitis"
+]
+},
+{
+"id": "abdo-diarrhee",
+"system": "abdo",
+"title": "Diarrhée aiguë et chronique de l’adulte",
+"terms": [
+"acute diarrhea",
+"chronic diarrhea"
+]
+},
+{
+"id": "abdo-lithiase-biliaire",
+"system": "abdo",
+"title": "Lithiase biliaire, cholécystite et angiocholite",
+"terms": [
+"cholelithiasis",
+"acute cholangitis"
+]
+},
+{
+"id": "abdo-occlusion-appendicite",
+"system": "abdo",
+"title": "Occlusion intestinale et appendicite aiguë",
+"terms": [
+"intestinal obstruction",
+"appendicitis"
+]
+},
+{
+"id": "cardio-hta",
+"system": "cardio",
+"title": "Hypertension artérielle : dépistage, bilan et complications",
+"terms": [
+"hypertension"
+]
+},
+{
+"id": "cardio-syncope-palpitations",
+"system": "cardio",
+"title": "Syncope et palpitations",
+"terms": [
+"syncope",
+"palpitations"
+]
+},
+{
+"id": "cardio-fibrillation-atriale",
+"system": "cardio",
+"title": "Fibrillation atriale et troubles du rythme fréquents",
+"terms": [
+"atrial fibrillation"
+]
+},
+{
+"id": "cardio-sca",
+"system": "cardio",
+"title": "Syndrome coronarien aigu : diagnostic et prise en charge initiale",
+"terms": [
+"acute coronary syndrome",
+"stemi"
+]
+},
+{
+"id": "cardio-tvp-ep",
+"system": "cardio",
+"title": "Thrombose veineuse profonde et embolie pulmonaire",
+"terms": [
+"pulmonary embolism",
+"deep vein thrombosis"
+]
+},
+{
+"id": "cardio-valvulopathies",
+"system": "cardio",
+"title": "Valvulopathies et rhumatisme articulaire aigu",
+"terms": [
+"valvular heart disease",
+"rheumatic heart disease"
+]
+},
+{
+"id": "cardio-endocardite",
+"system": "cardio",
+"title": "Endocardite infectieuse",
+"terms": [
+"infective endocarditis"
+]
+},
+{
+"id": "derma-semiologie",
+"system": "derma",
+"title": "Sémiologie dermatologique : lésions élémentaires",
+"terms": [
+"dermatology",
+"skin lesion"
+]
+},
+{
+"id": "derma-infections-bacteriennes",
+"system": "derma",
+"title": "Infections bactériennes de la peau : impétigo, érysipèle, cellulite",
+"terms": [
+"cellulitis",
+"impetigo"
+]
+},
+{
+"id": "derma-mycoses-parasitoses",
+"system": "derma",
+"title": "Mycoses cutanées, gale et pédiculose",
+"terms": [
+"scabies",
+"tinea",
+"dermatophytosis"
+]
+},
+{
+"id": "derma-eczema-urticaire",
+"system": "derma",
+"title": "Eczéma, dermatite atopique et urticaire",
+"terms": [
+"atopic dermatitis",
+"urticaria"
+]
+},
+{
+"id": "derma-tumeurs",
+"system": "derma",
+"title": "Tumeurs cutanées et mélanome",
+"terms": [
+"melanoma",
+"skin cancer"
+]
+},
+{
+"id": "derma-urgences",
+"system": "derma",
+"title": "Urgences dermatologiques : toxidermies graves, purpura fulminans",
+"terms": [
+"stevens-johnson",
+"toxic epidermal necrolysis",
+"purpura fulminans"
+]
+},
+{
+"id": "endo-diabete-type-2",
+"system": "endo",
+"title": "Diabète de type 2 : diagnostic, bilan et suivi",
+"terms": [
+"type 2 diabetes"
+]
+},
+{
+"id": "endo-acidocetose",
+"system": "endo",
+"title": "Diabète de type 1 et acidocétose diabétique",
+"terms": [
+"diabetic ketoacidosis",
+"type 1 diabetes"
+]
+},
+{
+"id": "endo-hypoglycemie",
+"system": "endo",
+"title": "Hypoglycémie",
+"terms": [
+"hypoglycemia"
+]
+},
+{
+"id": "endo-hypothyroidie",
+"system": "endo",
+"title": "Hypothyroïdie",
+"terms": [
+"hypothyroidism"
+]
+},
+{
+"id": "endo-hyperthyroidie-goitre",
+"system": "endo",
+"title": "Hyperthyroïdie, goitre et nodules thyroïdiens",
+"terms": [
+"hyperthyroidism",
+"thyroid nodule",
+"goiter"
+]
+},
+{
+"id": "endo-obesite-dyslipidemie",
+"system": "endo",
+"title": "Obésité, syndrome métabolique et dyslipidémies",
+"terms": [
+"obesity",
+"dyslipidemia"
+]
+},
+{
+"id": "endo-insuffisance-surrenale",
+"system": "endo",
+"title": "Insuffisance surrénale et corticothérapie prolongée",
+"terms": [
+"adrenal insufficiency",
+"glucocorticoid"
+]
+},
+{
+"id": "gyneco-suivi-prenatal",
+"system": "gyneco",
+"title": "Suivi prénatal et consultation de grossesse",
+"terms": [
+"antenatal care",
+"prenatal care"
+]
+},
+{
+"id": "gyneco-preeclampsie",
+"system": "gyneco",
+"title": "Pré-éclampsie et éclampsie",
+"terms": [
+"preeclampsia",
+"eclampsia"
+]
+},
+{
+"id": "gyneco-hemorragie-post-partum",
+"system": "gyneco",
+"title": "Hémorragie du post-partum",
+"terms": [
+"postpartum haemorrhage"
+]
+},
+{
+"id": "gyneco-saignements-t1",
+"system": "gyneco",
+"title": "Saignements du premier trimestre : fausse couche, grossesse extra-utérine, môle",
+"terms": [
+"ectopic pregnancy",
+"miscarriage",
+"hydatidiform mole"
+]
+},
+{
+"id": "gyneco-saignements-t3",
+"system": "gyneco",
+"title": "Hémorragies du troisième trimestre : placenta praevia et hématome rétroplacentaire",
+"terms": [
+"placenta praevia",
+"placental abruption"
+]
+},
+{
+"id": "gyneco-accouchement",
+"system": "gyneco",
+"title": "Accouchement normal, partogramme et dystocies",
+"terms": [
+"labour",
+"partograph",
+"shoulder dystocia"
+]
+},
+{
+"id": "gyneco-contraception",
+"system": "gyneco",
+"title": "Contraception",
+"terms": [
+"contraception",
+"family planning"
+]
+},
+{
+"id": "gyneco-leucorrhees",
+"system": "gyneco",
+"title": "Leucorrhées et infections génitales basses",
+"terms": [
+"vaginal discharge",
+"bacterial vaginosis"
+]
+},
+{
+"id": "gyneco-cancer-col",
+"system": "gyneco",
+"title": "Cancer du col de l’utérus et dépistage",
+"terms": [
+"cervical cancer",
+"cervical cancer screening"
+]
+},
+{
+"id": "gyneco-infections-grossesse",
+"system": "gyneco",
+"title": "Infections pendant la grossesse : syphilis, VIH, paludisme, bactériurie",
+"terms": [
+"infections in pregnancy",
+"congenital syphilis"
+]
+},
+{
+"id": "hemato-anemies",
+"system": "hemato",
+"title": "Anémies : démarche diagnostique",
+"terms": [
+"anemia",
+"iron deficiency"
+]
+},
+{
+"id": "hemato-drepanocytose",
+"system": "hemato",
+"title": "Drépanocytose",
+"terms": [
+"sickle cell disease",
+"vaso-occlusive crisis"
+]
+},
+{
+"id": "hemato-hemostase",
+"system": "hemato",
+"title": "Syndrome hémorragique et troubles de l’hémostase",
+"terms": [
+"bleeding disorder",
+"disseminated intravascular coagulation"
+]
+},
+{
+"id": "hemato-adenopathies-hemopathies",
+"system": "hemato",
+"title": "Adénopathies, splénomégalie et suspicion d’hémopathie maligne",
+"terms": [
+"lymphadenopathy",
+"lymphoma"
+]
+},
+{
+"id": "hemato-transfusion",
+"system": "hemato",
+"title": "Transfusion sanguine et accidents transfusionnels",
+"terms": [
+"blood transfusion",
+"transfusion reaction"
+]
+},
+{
+"id": "hemato-thrombose-anticoagulants",
+"system": "hemato",
+"title": "Thrombose et traitements anticoagulants",
+"terms": [
+"anticoagulants",
+"venous thromboembolism"
+]
+},
+{
+"id": "infect-paludisme",
+"system": "infect",
+"title": "Paludisme",
+"terms": [
+"malaria"
+]
+},
+{
+"id": "infect-tuberculose",
+"system": "infect",
+"title": "Tuberculose",
+"terms": [
+"tuberculosis"
+]
+},
+{
+"id": "infect-vih-sida",
+"system": "infect",
+"title": "Infection par le VIH et sida",
+"terms": [
+"hiv infection",
+"advanced hiv disease"
+]
+},
+{
+"id": "infect-fievre-typhoide",
+"system": "infect",
+"title": "Fièvre typhoïde",
+"terms": [
+"typhoid fever"
+]
+},
+{
+"id": "infect-arboviroses",
+"system": "infect",
+"title": "Dengue, chikungunya, Zika et fièvre jaune",
+"terms": [
+"dengue",
+"chikungunya",
+"arboviral diseases"
+]
+},
+{
+"id": "infect-cholera",
+"system": "infect",
+"title": "Choléra (Vibrio cholerae)",
+"terms": [
+"cholera"
+]
+},
+{
+"id": "infect-leptospirose",
+"system": "infect",
+"title": "Leptospirose",
+"terms": [
+"leptospirosis"
+]
+},
+{
+"id": "infect-ist",
+"system": "infect",
+"title": "Infections sexuellement transmissibles",
+"terms": [
+"sexually transmitted infections"
+]
+},
+{
+"id": "infect-tetanos",
+"system": "infect",
+"title": "Tétanos et plaies à risque",
+"terms": [
+"tetanus"
+]
+},
+{
+"id": "infect-filariose-helminthiases",
+"system": "infect",
+"title": "Filariose lymphatique et helminthiases",
+"terms": [
+"lymphatic filariasis",
+"soil-transmitted helminths"
+]
+},
+{
+"id": "nephro-ira",
+"system": "nephro",
+"title": "Insuffisance rénale aiguë",
+"terms": [
+"acute kidney injury",
+"acute kidney disease"
+]
+},
+{
+"id": "nephro-mrc",
+"system": "nephro",
+"title": "Maladie rénale chronique",
+"terms": [
+"chronic kidney disease"
+]
+},
+{
+"id": "nephro-hydro-electrolytique",
+"system": "nephro",
+"title": "Hyponatrémie et dyskaliémies",
+"terms": [
+"hyponatremia",
+"hyperkalemia"
+]
+},
+{
+"id": "nephro-syndromes-glomerulaires",
+"system": "nephro",
+"title": "Syndromes néphrotique et néphritique",
+"terms": [
+"nephrotic syndrome",
+"glomerulonephritis"
+]
+},
+{
+"id": "nephro-infections-urinaires",
+"system": "nephro",
+"title": "Infections urinaires : cystite, pyélonéphrite, prostatite",
+"terms": [
+"urinary tract infection",
+"pyelonephritis"
+]
+},
+{
+"id": "nephro-lithiase-colique",
+"system": "nephro",
+"title": "Lithiase urinaire et colique néphrétique",
+"terms": [
+"renal colic",
+"urolithiasis"
+]
+},
+{
+"id": "nephro-hbp-retention",
+"system": "nephro",
+"title": "Hyperplasie bénigne de la prostate et rétention aiguë d’urine",
+"terms": [
+"benign prostatic hyperplasia",
+"urinary retention"
+]
+},
+{
+"id": "neuro-epilepsie",
+"system": "neuro",
+"title": "Crise convulsive et épilepsie",
+"terms": [
+"epilepsy",
+"status epilepticus"
+]
+},
+{
+"id": "neuro-meningite-encephalite",
+"system": "neuro",
+"title": "Méningites et encéphalites",
+"terms": [
+"bacterial meningitis",
+"encephalitis"
+]
+},
+{
+"id": "neuro-cephalees",
+"system": "neuro",
+"title": "Céphalées : migraine, céphalées secondaires et signes d’alarme",
+"terms": [
+"headache",
+"migraine"
+]
+},
+{
+"id": "neuro-vertiges",
+"system": "neuro",
+"title": "Vertiges et syndrome vestibulaire",
+"terms": [
+"vertigo",
+"benign paroxysmal positional vertigo"
+]
+},
+{
+"id": "neuro-neuropathies",
+"system": "neuro",
+"title": "Neuropathies périphériques et syndrome de Guillain-Barré",
+"terms": [
+"peripheral neuropathy",
+"guillain-barre syndrome"
+]
+},
+{
+"id": "neuro-demences",
+"system": "neuro",
+"title": "Troubles neurocognitifs majeurs (démences)",
+"terms": [
+"dementia",
+"cognitive impairment"
+]
+},
+{
+"id": "neuro-parkinson",
+"system": "neuro",
+"title": "Maladie de Parkinson et syndromes extrapyramidaux",
+"terms": [
+"parkinson disease",
+"parkinsonism"
+]
+},
+{
+"id": "neuro-avc-prise-en-charge",
+"system": "neuro",
+"title": "AVC et AIT : prise en charge et prévention secondaire",
+"terms": [
+"ischemic stroke",
+"thrombolysis"
+]
+},
+{
+"id": "pedia-examen-nouveau-ne",
+"system": "pedia",
+"title": "Examen du nouveau-né et réanimation néonatale",
+"terms": [
+"newborn resuscitation",
+"essential newborn care"
+]
+},
+{
+"id": "pedia-croissance-vaccination",
+"system": "pedia",
+"title": "Croissance, développement psychomoteur et vaccination",
+"terms": [
+"child growth",
+"immunization schedule"
+]
+},
+{
+"id": "pedia-deshydratation-diarrhee",
+"system": "pedia",
+"title": "Diarrhée aiguë et déshydratation de l’enfant",
+"terms": [
+"childhood diarrhoea",
+"oral rehydration"
+]
+},
+{
+"id": "pedia-bronchiolite-pneumonie",
+"system": "pedia",
+"title": "Bronchiolite et pneumonie de l’enfant",
+"terms": [
+"childhood pneumonia",
+"bronchiolitis"
+]
+},
+{
+"id": "pedia-malnutrition",
+"system": "pedia",
+"title": "Malnutrition aiguë de l’enfant",
+"terms": [
+"severe acute malnutrition",
+"wasting"
+]
+},
+{
+"id": "pedia-fievre-convulsions",
+"system": "pedia",
+"title": "Fièvre et convulsions de l’enfant",
+"terms": [
+"febrile seizure",
+"childhood fever"
+]
+},
+{
+"id": "pedia-ictere-infection-neonatale",
+"system": "pedia",
+"title": "Ictère et infection du nouveau-né",
+"terms": [
+"neonatal jaundice",
+"neonatal sepsis"
+]
+},
+{
+"id": "pedia-pcime",
+"system": "pedia",
+"title": "Évaluer un enfant malade : signes de danger et approche PCIME",
+"terms": [
+"imci",
+"integrated management of childhood illness"
+]
+},
+{
+"id": "psy-examen-psychiatrique",
+"system": "psy",
+"title": "Entretien et examen psychiatrique",
+"terms": [
+"psychiatric assessment",
+"mental state examination"
+]
+},
+{
+"id": "psy-depression",
+"system": "psy",
+"title": "Épisode dépressif caractérisé",
+"terms": [
+"depression",
+"major depressive disorder"
+]
+},
+{
+"id": "psy-anxiete-trauma",
+"system": "psy",
+"title": "Troubles anxieux, stress et trouble de stress post-traumatique",
+"terms": [
+"anxiety disorders",
+"posttraumatic stress disorder"
+]
+},
+{
+"id": "psy-psychoses",
+"system": "psy",
+"title": "Schizophrénie et troubles psychotiques",
+"terms": [
+"schizophrenia",
+"psychosis"
+]
+},
+{
+"id": "psy-bipolaire",
+"system": "psy",
+"title": "Trouble bipolaire et épisode maniaque",
+"terms": [
+"bipolar disorder",
+"mania"
+]
+},
+{
+"id": "psy-risque-suicidaire",
+"system": "psy",
+"title": "Évaluation du risque suicidaire",
+"terms": [
+"suicide prevention",
+"suicidal ideation"
+]
+},
+{
+"id": "psy-addictions",
+"system": "psy",
+"title": "Troubles liés à l’alcool, au tabac et aux autres substances",
+"terms": [
+"alcohol use disorder",
+"alcohol withdrawal"
+]
+},
+{
+"id": "psy-delirium",
+"system": "psy",
+"title": "Syndrome confusionnel (delirium)",
+"terms": [
+"delirium",
+"acute confusional state"
+]
+},
+{
+"id": "respi-asthme",
+"system": "respi",
+"title": "Asthme de l’adulte et de l’enfant",
+"terms": [
+"asthma",
+"asthma exacerbation"
+]
+},
+{
+"id": "respi-bpco",
+"system": "respi",
+"title": "Bronchopneumopathie chronique obstructive (BPCO)",
+"terms": [
+"copd",
+"copd exacerbation"
+]
+},
+{
+"id": "respi-pneumonie",
+"system": "respi",
+"title": "Pneumonie aiguë communautaire",
+"terms": [
+"community-acquired pneumonia"
+]
+},
+{
+"id": "respi-pleural",
+"system": "respi",
+"title": "Épanchements pleuraux et pneumothorax",
+"terms": [
+"pleural effusion",
+"pneumothorax"
+]
+},
+{
+"id": "respi-hemoptysie-toux-chronique",
+"system": "respi",
+"title": "Hémoptysie et toux chronique",
+"terms": [
+"hemoptysis",
+"chronic cough"
+]
+},
+{
+"id": "urgence-arret-cardiaque",
+"system": "urgence",
+"title": "Arrêt cardiaque et réanimation cardio-pulmonaire",
+"terms": [
+"cardiac arrest",
+"cardiopulmonary resuscitation"
+]
+},
+{
+"id": "urgence-etat-de-choc",
+"system": "urgence",
+"title": "État de choc",
+"terms": [
+"shock",
+"septic shock"
+]
+},
+{
+"id": "urgence-polytraumatise",
+"system": "urgence",
+"title": "Prise en charge initiale du polytraumatisé",
+"terms": [
+"trauma",
+"major trauma"
+]
+},
+{
+"id": "urgence-brulures",
+"system": "urgence",
+"title": "Brûlures",
+"terms": [
+"burns"
+]
+},
+{
+"id": "urgence-anaphylaxie",
+"system": "urgence",
+"title": "Anaphylaxie",
+"terms": [
+"anaphylaxis",
+"adrenaline"
+]
+},
+{
+"id": "urgence-intoxications-envenimations",
+"system": "urgence",
+"title": "Intoxications et envenimations",
+"terms": [
+"poisoning",
+"snakebite envenoming"
+]
+},
+{
+"id": "urgence-detresse-respiratoire",
+"system": "urgence",
+"title": "Détresse respiratoire aiguë et oxygénothérapie",
+"terms": [
+"acute respiratory failure",
+"oxygen therapy"
+]
+},
+{
+"id": "general-fievre-sepsis",
+"system": "general",
+"title": "general-fievre-sepsis",
+"terms": [
+"sepsis"
+]
+},
+{
+"id": "neuro-deficit-avc",
+"system": "neuro",
+"title": "neuro-deficit-avc",
+"terms": [
+"stroke"
+]
+},
+{
+"id": "cardio-insuffisance-cardiaque",
+"system": "cardio",
+"title": "cardio-insuffisance-cardiaque",
+"terms": [
+"heart failure"
+]
+},
+{
+"id": "cardio-douleur-thoracique",
+"system": "cardio",
+"title": "cardio-douleur-thoracique",
+"terms": [
+"chest pain"
+]
+},
+{
+"id": "respi-dyspnee",
+"system": "respi",
+"title": "respi-dyspnee",
+"terms": [
+"dyspnea"
+]
+},
+{
+"id": "abdo-douleur-aigue",
+"system": "abdo",
+"title": "abdo-douleur-aigue",
+"terms": [
+"acute abdomen"
+]
+}
+]
