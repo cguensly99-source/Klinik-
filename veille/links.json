@@ -1,6 +1,6 @@
 {
- "checkedAt": "2026-10-21T11:21:23.792Z",
- "total": 178,
+ "checkedAt": "2026-10-21T11:25:34.693Z",
+ "total": 189,
  "broken": [
   {
    "url": "https://apo.who.int/publications/i/item/9789241549912",
@@ -10,18 +10,18 @@
    ]
   },
   {
-   "url": "https://aabb.org/news-resources/news/article/2023/10/12/new-red-blood-cell-transfusion-guidelines-recommend-an-individualized-approach",
-   "status": 404,
-   "chapters": [
-    "hemato-transfusion"
-   ]
-  },
-  {
    "url": "https://app.magicapp.org/summary/guideline_9683.html",
    "status": 404,
    "chapters": [
     "infect-paludisme",
     "cas-paludisme-grave"
+   ]
+  },
+  {
+   "url": "https://aabb.org/news-resources/news/article/2023/10/12/new-red-blood-cell-transfusion-guidelines-recommend-an-individualized-approach",
+   "status": 404,
+   "chapters": [
+    "hemato-transfusion"
    ]
   },
   {
@@ -44,6 +44,20 @@
    "status": 404,
    "chapters": [
     "urgence-intoxications-envenimations"
+   ]
+  },
+  {
+   "url": "https://app.magicapp.org/summary/guideline_9508.html",
+   "status": 404,
+   "chapters": [
+    "candidat"
+   ]
+  },
+  {
+   "url": "https://www.who.int/news-room/fact-sheets/detail/poisoning-prevention-and-management",
+   "status": 404,
+   "chapters": [
+    "candidat"
    ]
   }
  ]
