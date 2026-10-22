@@ -83,17 +83,24 @@ if (process.argv.includes('--links') && fs.existsSync(`${DIR}/refs.json`)) {
   const refs = JSON.parse(fs.readFileSync(`${DIR}/refs.json`, 'utf8')); // {url: [chapterIds]}
   const urls = Object.keys(refs);
   const broken = [];
+  const unverified = [];
+  const BOT_BLOCKED = ['esmo.org', 'globalclubfoot.com'];
   let idx = 0;
   const check = async (u) => {
     const ctl = (m) => fetch(u, { method: m, redirect: 'follow', signal: AbortSignal.timeout(20000), headers: { 'User-Agent': 'Mozilla/5.0 klinik-linkcheck/1' } });
     try {
       let r = await ctl('HEAD');
       if ([400, 403, 405, 429, 501].includes(r.status)) r = await ctl('GET');
-      if (r.status === 404 || r.status === 410) broken.push({ url: u, status: r.status, chapters: refs[u].slice(0, 5) });
+      if (r.status === 404 || r.status === 410) {
+        // Sites qui répondent 404 aux robots alors que la page existe : à vérifier à la main, pas « cassés ».
+        const host = new URL(u).hostname.replace(/^www\./, '');
+        if (BOT_BLOCKED.some((h) => host === h || host.endsWith('.' + h))) unverified.push({ url: u, status: r.status, chapters: refs[u].slice(0, 5) });
+        else broken.push({ url: u, status: r.status, chapters: refs[u].slice(0, 5) });
+      }
     } catch { /* réseau : on ne conclut pas */ }
   };
   await Promise.all(Array.from({ length: 6 }, async () => { while (idx < urls.length) await check(urls[idx++]); }));
-  links = { checkedAt: new Date().toISOString(), total: urls.length, broken };
+  links = { checkedAt: new Date().toISOString(), total: urls.length, broken, unverified };
   fs.writeFileSync(`${DIR}/links.json`, JSON.stringify(links, null, 1));
 }
 
