@@ -1,63 +1,48 @@
 {
- "checkedAt": "2026-10-21T11:25:34.693Z",
- "total": 189,
+ "checkedAt": "2026-10-22T08:59:48.334Z",
+ "total": 255,
  "broken": [
   {
-   "url": "https://apo.who.int/publications/i/item/9789241549912",
+   "url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/New-ESC-EACTS-Guidelines-Guidelines-for-Valvular-Heart-Disease-will-help-prevent-under-treatment-of-patients-and-support",
    "status": 404,
    "chapters": [
-    "gyneco-suivi-prenatal"
+    "cardio-valvulopathies"
    ]
   },
   {
-   "url": "https://app.magicapp.org/summary/guideline_9683.html",
+   "url": "https://esmo.org/guidelines/gastrointestinal-cancers/metastatic-colorectal-cancer",
    "status": 404,
    "chapters": [
-    "infect-paludisme",
-    "cas-paludisme-grave"
+    "onco-cancer-colorectal"
    ]
   },
   {
-   "url": "https://aabb.org/news-resources/news/article/2023/10/12/new-red-blood-cell-transfusion-guidelines-recommend-an-individualized-approach",
+   "url": "https://esmo.org/guidelines/breast-cancer/early-breast-cancer",
    "status": 404,
    "chapters": [
-    "hemato-transfusion"
+    "onco-cancer-sein"
    ]
   },
   {
-   "url": "https://www.medthority.com/journals/fluid-and-electrolyte-disorders/potassium-homeostasis-and-management-of-dyskalemia-in-kidney-diseases-conclusions-from-a-kidney-disease-improving-global-outcomes-kdigo-controversies-conference/",
+   "url": "https://esmo.org/guidelines/gastrointestinal-cancers/early-colon-cancer",
    "status": 404,
    "chapters": [
-    "nephro-hydro-electrolytique"
+    "onco-cancer-colorectal",
+    "cas-cancer-colon-occlusion"
    ]
   },
   {
-   "url": "https://www.who.int/health-topics/injuries-and-violence",
+   "url": "https://esmo.org/Guidelines/Lung-and-Chest-Tumours",
    "status": 404,
    "chapters": [
-    "urgence-polytraumatise",
-    "cas-polytraumatise-moto"
+    "onco-cancer-poumon"
    ]
   },
   {
-   "url": "https://www.who.int/health-topics/poisoning",
+   "url": "https://globalclubfoot.com/about-gci/history-of-gci/",
    "status": 404,
    "chapters": [
-    "urgence-intoxications-envenimations"
-   ]
-  },
-  {
-   "url": "https://app.magicapp.org/summary/guideline_9508.html",
-   "status": 404,
-   "chapters": [
-    "candidat"
-   ]
-  },
-  {
-   "url": "https://www.who.int/news-room/fact-sheets/detail/poisoning-prevention-and-management",
-   "status": 404,
-   "chapters": [
-    "candidat"
+    "ortho-boiterie-enfant"
    ]
   }
  ]
