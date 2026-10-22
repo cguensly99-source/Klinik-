@@ -25,6 +25,16 @@
 "cardio-tvp-ep",
 "cardio-valvulopathies",
 "cardio-endocardite",
+"chir-preop-postop",
+"chir-peritonite-perforation",
+"chir-hernies",
+"chir-traumatisme-abdominal",
+"chir-tissus-mous",
+"chir-anorectal",
+"chir-ischemie-pied-diabetique",
+"chir-scrotum-aigu",
+"cas-perforation-typhique",
+"cas-pied-diabetique-infecte",
 "derma-semiologie",
 "derma-infections-bacteriennes",
 "derma-mycoses-parasitoses",
@@ -64,6 +74,13 @@
 "infect-ist",
 "infect-tetanos",
 "infect-filariose-helminthiases",
+"loco-lombalgie-sciatique",
+"loco-arthrose",
+"loco-arthrites",
+"loco-osteoporose-fractures",
+"loco-traumatologie",
+"loco-infections-osteo-articulaires",
+"cas-lombalgie-spondylodiscite",
 "nephro-ira",
 "nephro-mrc",
 "nephro-hydro-electrolytique",
@@ -81,6 +98,32 @@
 "neuro-parkinson",
 "neuro-avc-prise-en-charge",
 "cas-meningite-purpura",
+"onco-principes-depistage",
+"onco-cancer-sein",
+"onco-cancer-prostate",
+"onco-cancer-colorectal",
+"onco-cancer-poumon",
+"onco-douleur-soins-palliatifs",
+"cas-cancer-colon-occlusion",
+"orl-otite-otalgie",
+"orl-angine-rhinosinusite",
+"orl-epistaxis-urgences",
+"orl-surdite",
+"ophtalmo-oeil-rouge",
+"ophtalmo-baisse-vision",
+"ophtalmo-glaucome-cataracte",
+"ophtalmo-traumatismes",
+"cas-otite-mastoidite",
+"ortho-fractures-ouvertes",
+"ortho-fracture-hanche",
+"ortho-fractures-membre-superieur",
+"ortho-luxations-ligaments",
+"ortho-rachis-traumatique",
+"ortho-fractures-enfant",
+"ortho-boiterie-enfant",
+"ortho-main-tendons",
+"cas-fracture-col-femur",
+"cas-fracture-ouverte-tibia",
 "pedia-examen-nouveau-ne",
 "pedia-croissance-vaccination",
 "pedia-deshydratation-diarrhee",
@@ -189,18 +232,97 @@
 "https://www.escardio.org/The-ESC/Press-Office/Press-releases/New-ESC-EACTS-Guidelines-Guidelines-for-Valvular-Heart-Disease-will-help-prevent-under-treatment-of-patients-and-support": [
 "cardio-valvulopathies"
 ],
+"https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources": [
+"chir-preop-postop"
+],
+"https://www.who.int/publications/i/item/9789241550475": [
+"chir-preop-postop",
+"chir-tissus-mous",
+"cas-perforation-typhique"
+],
+"https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/non-cardiac-surgery/": [
+"chir-preop-postop"
+],
+"https://erassociety.org/guidelines/": [
+"chir-preop-postop"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC5504840": [
+"chir-peritonite-perforation",
+"cas-perforation-typhique"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6947898/": [
+"chir-peritonite-perforation"
+],
+"https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026": [
+"chir-peritonite-perforation",
+"urgence-etat-de-choc"
+],
+"https://pubmed.ncbi.nlm.nih.gov/29330835/": [
+"chir-hernies"
+],
+"https://europeanherniasociety.eu/international-herniasurge-guidelines-for-groin-hernia-management/": [
+"chir-hernies"
+],
+"https://ghsm.hms.harvard.edu/news/global-surgery-2030-report-published": [
+"chir-hernies"
+],
+"https://www.who.int/publications/i/item/guidelines-for-essential-trauma-care": [
+"chir-traumatisme-abdominal",
+"ortho-fractures-ouvertes",
+"ortho-fracture-hanche",
+"ortho-rachis-traumatique",
+"cas-fracture-ouverte-tibia"
+],
+"https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/september-16-2025-issue/trauma-care-gets-major-upgrade-with-launch-of-atls-11/": [
+"chir-traumatisme-abdominal",
+"ortho-fractures-ouvertes",
+"ortho-rachis-traumatique"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5562999/": [
+"chir-traumatisme-abdominal"
+],
+"https://research.uaeu.ac.ae/en/publications/liver-trauma-wses-2020-guidelines/": [
+"chir-traumatisme-abdominal"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6295010/": [
+"chir-tissus-mous"
+],
+"https://pubmed.ncbi.nlm.nih.gov/29420423/": [
+"chir-anorectal"
+],
+"https://guidelinecentral.com/guideline/1971902": [
+"chir-anorectal"
+],
+"https://esvs.org/wp-content/uploads/2021/08/Acute-Limb-Ischaemia-Feb-2020.pdf": [
+"chir-ischemie-pied-diabetique"
+],
+"https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-01-Practical-Guidelines.pdf": [
+"chir-ischemie-pied-diabetique",
+"cas-pied-diabetique-infecte"
+],
+"https://pubmed.ncbi.nlm.nih.gov/37302121/": [
+"chir-ischemie-pied-diabetique",
+"cas-pied-diabetique-infecte"
+],
+"https://pubmed.ncbi.nlm.nih.gov/31971621": [
+"chir-ischemie-pied-diabetique"
+],
+"https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum": [
+"chir-scrotum-aigu"
+],
+"https://childrens.health.qld.gov.au/guideline-acute-scrotal-pain-emergency-management-in-children": [
+"chir-scrotum-aigu"
+],
 "https://www.who.int/publications/i/item/9789292800024": [
 "derma-semiologie",
 "derma-infections-bacteriennes",
-"derma-mycoses-parasitoses",
-"candidat"
+"derma-mycoses-parasitoses"
 ],
 "https://www.who.int/news/item/08-06-2018-recognizing-neglected-skin-diseases-who-publishes-pictorial-training-guide": [
 "derma-semiologie"
 ],
 "https://www.cyberderm.net/learn/basic-lesions": [
-"derma-semiologie",
-"candidat"
+"derma-semiologie"
 ],
 "https://pubmed.ncbi.nlm.nih.gov/24973422/": [
 "derma-infections-bacteriennes",
@@ -237,8 +359,7 @@
 "derma-tumeurs"
 ],
 "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation": [
-"derma-tumeurs",
-"candidat"
+"derma-tumeurs"
 ],
 "https://academic.oup.com/bjd/article/174/6/1194/6617016": [
 "derma-urgences"
@@ -247,8 +368,7 @@
 "derma-urgences"
 ],
 "https://www.who.int/news-room/fact-sheets/detail/meningitis": [
-"derma-urgences",
-"candidat"
+"derma-urgences"
 ],
 "https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-standards-care-diabetes-2026": [
 "endo-diabete-type-2",
@@ -285,8 +405,9 @@
 "https://academic.oup.com/jcem/article/101/2/364/2810333": [
 "endo-insuffisance-surrenale"
 ],
-"https://apo.who.int/publications/i/item/9789241549912": [
-"gyneco-suivi-prenatal"
+"https://www.who.int/publications/i/item/9789241549912": [
+"gyneco-suivi-prenatal",
+"gyneco-infections-grossesse"
 ],
 "https://www.who.int/news/item/07-11-2016-new-guidelines-on-antenatal-care-for-a-positive-pregnancy-experience": [
 "gyneco-suivi-prenatal"
@@ -374,10 +495,6 @@
 "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer": [
 "gyneco-cancer-col"
 ],
-"https://www.who.int/publications/i/item/9789241549912": [
-"gyneco-infections-grossesse",
-"candidat"
-],
 "https://www.who.int/health-topics/hiv-aids": [
 "gyneco-infections-grossesse",
 "infect-vih-sida"
@@ -411,7 +528,7 @@
 "https://smw.ch/index.php/smw/article/download/3549/6008?inline=1": [
 "hemato-adenopathies-hemopathies"
 ],
-"https://aabb.org/news-resources/news/article/2023/10/12/new-red-blood-cell-transfusion-guidelines-recommend-an-individualized-approach": [
+"https://experts.umn.edu/en/publications/red-blood-cell-transfusion-2023-aabb-international-guidelines/": [
 "hemato-transfusion"
 ],
 "https://www.who.int/publications/i/item/9789240121546": [
@@ -420,7 +537,7 @@
 "https://pubmed.ncbi.nlm.nih.gov/33007077/": [
 "hemato-thrombose-anticoagulants"
 ],
-"https://app.magicapp.org/summary/guideline_9683.html": [
+"https://www.who.int/teams/global-malaria-programme/guidelines-for-malaria": [
 "infect-paludisme",
 "cas-paludisme-grave"
 ],
@@ -493,6 +610,62 @@
 "https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections": [
 "infect-filariose-helminthiases"
 ],
+"https://www.who.int/news/item/07-12-2023-who-releases-guidelines-on-chronic-low-back-pain": [
+"loco-lombalgie-sciatique"
+],
+"https://www.nice.org.uk/guidance/ng59/resources/low-back-pain-and-sciatica-in-over-16s-assessment-and-management-1837521693637": [
+"loco-lombalgie-sciatique",
+"cas-lombalgie-spondylodiscite"
+],
+"https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions": [
+"loco-lombalgie-sciatique",
+"loco-arthrose",
+"loco-osteoporose-fractures"
+],
+"https://doi.org/10.1002/acr.24131": [
+"loco-arthrose"
+],
+"https://pubmed.ncbi.nlm.nih.gov/32391934/": [
+"loco-arthrites"
+],
+"https://ard.bmj.com/content/82/1/3": [
+"loco-arthrites"
+],
+"https://pubmed.ncbi.nlm.nih.gov/20206778/": [
+"loco-arthrites",
+"loco-infections-osteo-articulaires"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC9546973/": [
+"loco-osteoporose-fractures"
+],
+"https://www.nice.org.uk/guidance/cg124": [
+"loco-osteoporose-fractures"
+],
+"https://www.mayoclinic.org/medical-professionals/trauma/news/atls-update-what-trauma-professionals-need-to-know/mac-20602992": [
+"loco-traumatologie",
+"urgence-etat-de-choc",
+"urgence-polytraumatise",
+"urgence-brulures",
+"urgence-intoxications-envenimations",
+"cas-polytraumatise-moto"
+],
+"https://www.bssh.ac.uk/_userfiles/pages/files/professionals/Radius/BOAST-Open-Fractures.pdf": [
+"loco-traumatologie"
+],
+"https://www.who.int/news-room/fact-sheets/detail/injuries-and-violence": [
+"loco-traumatologie",
+"orl-epistaxis-urgences",
+"ophtalmo-traumatismes",
+"urgence-polytraumatise",
+"cas-polytraumatise-moto"
+],
+"https://pubmed.ncbi.nlm.nih.gov/26229122/": [
+"loco-infections-osteo-articulaires",
+"cas-lombalgie-spondylodiscite"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4926389/": [
+"loco-infections-osteo-articulaires"
+],
 "https://kdigo.org/kdigo-2026-aki-akd-guideline-draft-available-for-public-review/": [
 "nephro-ira"
 ],
@@ -508,7 +681,7 @@
 "https://pubmed.ncbi.nlm.nih.gov/24569496/": [
 "nephro-hydro-electrolytique"
 ],
-"https://www.medthority.com/journals/fluid-and-electrolyte-disorders/potassium-homeostasis-and-management-of-dyskalemia-in-kidney-diseases-conclusions-from-a-kidney-disease-improving-global-outcomes-kdigo-controversies-conference/": [
+"https://researchconnect.stonybrook.edu/en/publications/potassium-homeostasis-and-management-of-dyskalemia-in-kidney-dise/": [
 "nephro-hydro-electrolytique"
 ],
 "https://hal.sorbonne-universite.fr/hal-03915859": [
@@ -578,6 +751,158 @@
 ],
 "https://practicalneurology.com/news/guidelines-for-the-management-of-acute-ischemic-stroke-published/2485579/": [
 "neuro-avc-prise-en-charge"
+],
+"https://www.who.int/news-room/fact-sheets/detail/cancer": [
+"onco-principes-depistage",
+"onco-cancer-prostate",
+"onco-cancer-colorectal",
+"onco-cancer-poumon"
+],
+"https://www.afro.who.int/sites/default/files/2017-05/9789241511940-eng.pdf": [
+"onco-principes-depistage"
+],
+"https://esmo.org/guidelines/breast-cancer/early-breast-cancer": [
+"onco-cancer-sein"
+],
+"https://www.who.int/news/item/08-03-2021-new-global-breast-cancer-initiative-highlights-renewed-commitment-to-improve-survival": [
+"onco-cancer-sein"
+],
+"https://www.who.int/news-room/fact-sheets/detail/breast-cancer": [
+"onco-cancer-sein"
+],
+"https://uroweb.org/guidelines/prostate-cancer": [
+"onco-cancer-prostate"
+],
+"https://www.who.int/news-room/fact-sheets/detail/colorectal-cancer": [
+"onco-cancer-colorectal",
+"cas-cancer-colon-occlusion"
+],
+"https://esmo.org/guidelines/gastrointestinal-cancers/early-colon-cancer": [
+"onco-cancer-colorectal",
+"cas-cancer-colon-occlusion"
+],
+"https://esmo.org/guidelines/gastrointestinal-cancers/metastatic-colorectal-cancer": [
+"onco-cancer-colorectal"
+],
+"https://www.who.int/news-room/fact-sheets/detail/lung-cancer": [
+"onco-cancer-poumon"
+],
+"https://esmo.org/Guidelines/Lung-and-Chest-Tumours": [
+"onco-cancer-poumon"
+],
+"https://uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening": [
+"onco-cancer-poumon"
+],
+"https://www.who.int/news-room/fact-sheets/detail/palliative-care": [
+"onco-douleur-soins-palliatifs",
+"cas-cancer-colon-occlusion"
+],
+"https://iccp-portal.org/resources/who-guidelines-pharmacological-and-radiotherapeutic-management-cancer-pain-adults-and": [
+"onco-douleur-soins-palliatifs"
+],
+"https://www.who.int/our-work/access-to-medicines-and-health-products/controlled-substances/safe-access-to-morphine": [
+"onco-douleur-soins-palliatifs"
+],
+"https://pubmed.ncbi.nlm.nih.gov/23439909/": [
+"orl-otite-otalgie",
+"cas-otite-mastoidite"
+],
+"https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss": [
+"orl-otite-otalgie",
+"orl-surdite",
+"cas-otite-mastoidite"
+],
+"https://pubmed.ncbi.nlm.nih.gov/23091044/": [
+"orl-angine-rhinosinusite"
+],
+"https://pubmed.ncbi.nlm.nih.gov/32077450/": [
+"orl-angine-rhinosinusite"
+],
+"https://www.entnet.org/resource/aao-hnsf-updated-cpg-nosebleed-press-release-fact-sheet": [
+"orl-epistaxis-urgences"
+],
+"https://pubmed.ncbi.nlm.nih.gov/31369359/": [
+"orl-surdite"
+],
+"https://aao.org/Assets/76c4baa7-869e-42ad-9ffc-215781185a7b/638434228319430000/conjunctivitis-ppp-pdf": [
+"ophtalmo-oeil-rouge",
+"cas-glaucome-aigu-angle"
+],
+"https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment": [
+"ophtalmo-oeil-rouge",
+"ophtalmo-baisse-vision",
+"ophtalmo-glaucome-cataracte",
+"ophtalmo-traumatismes",
+"cas-glaucome-aigu-angle"
+],
+"https://professional.heart.org/en/science-news/management-of-central-retinal-artery-occlusion/top-things-to-know": [
+"ophtalmo-baisse-vision"
+],
+"https://ard.bmj.com/content/79/1/19": [
+"ophtalmo-baisse-vision"
+],
+"https://escrs.org/channels/eurotimes-articles/new-egs-guidelines": [
+"ophtalmo-glaucome-cataracte",
+"cas-glaucome-aigu-angle"
+],
+"https://www.who.int/news/item/08-10-2019-who-launches-first-world-report-on-vision": [
+"ophtalmo-glaucome-cataracte"
+],
+"https://vivo.weill.cornell.edu/display/pubid37768702": [
+"ophtalmo-traumatismes"
+],
+"https://www.nice.org.uk/guidance/ng37/resources/fractures-complex-assessment-and-management-1837397402053": [
+"ortho-fractures-ouvertes",
+"cas-fracture-ouverte-tibia"
+],
+"https://www.nice.org.uk/guidance/ng124": [
+"ortho-fracture-hanche",
+"cas-fracture-col-femur"
+],
+"https://www.aaos.org/quality/quality-programs/hip-fractures-in-older-adults/": [
+"ortho-fracture-hanche",
+"cas-fracture-col-femur"
+],
+"https://www.aaos.org/quality/quality-programs/distal-radius-fractures": [
+"ortho-fractures-membre-superieur"
+],
+"https://www.nice.org.uk/guidance/NG38": [
+"ortho-fractures-membre-superieur",
+"ortho-luxations-ligaments",
+"ortho-fractures-enfant"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10229450/": [
+"ortho-luxations-ligaments"
+],
+"https://pubmed.ncbi.nlm.nih.gov/12595378/": [
+"ortho-luxations-ligaments"
+],
+"https://pubmed.ncbi.nlm.nih.gov/11597285/": [
+"ortho-rachis-traumatique"
+],
+"https://www.aaos.org/quality/quality-programs/pediatric-supracondylar-humerus-fractures/": [
+"ortho-fractures-enfant"
+],
+"https://pubmed.ncbi.nlm.nih.gov/22302444/": [
+"ortho-fractures-enfant"
+],
+"https://www.aaos.org/globalassets/quality-and-practice-resources/pddh/pediatric-developmental-dysplasia-hip-clinical-practice-guideline-4-23-19.pdf": [
+"ortho-boiterie-enfant"
+],
+"https://www.aafp.org/pubs/afp/issues/2017/0801/p196.html": [
+"ortho-boiterie-enfant"
+],
+"https://globalclubfoot.com/about-gci/history-of-gci/": [
+"ortho-boiterie-enfant"
+],
+"https://orthokids.org/conditions/septic-arthritis-of-the-hip": [
+"ortho-boiterie-enfant"
+],
+"https://www.bssh.ac.uk/bssh_standards_of_care_in_hand_trauma_.aspx": [
+"ortho-main-tendons"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6806617/": [
+"ortho-main-tendons"
 ],
 "https://www.who.int/publications-detail-redirect/9789241503693": [
 "pedia-examen-nouveau-ne"
@@ -703,20 +1028,6 @@
 "https://www.erc.edu/": [
 "urgence-arret-cardiaque"
 ],
-"https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026": [
-"urgence-etat-de-choc"
-],
-"https://www.mayoclinic.org/medical-professionals/trauma/news/atls-update-what-trauma-professionals-need-to-know/mac-20602992": [
-"urgence-etat-de-choc",
-"urgence-polytraumatise",
-"urgence-brulures",
-"urgence-intoxications-envenimations",
-"cas-polytraumatise-moto"
-],
-"https://www.who.int/health-topics/injuries-and-violence": [
-"urgence-polytraumatise",
-"cas-polytraumatise-moto"
-],
 "https://www.who.int/news-room/fact-sheets/detail/burns": [
 "urgence-brulures"
 ],
@@ -726,7 +1037,7 @@
 "https://www.who.int/en/news-room/fact-sheets/detail/snakebite-envenoming": [
 "urgence-intoxications-envenimations"
 ],
-"https://www.who.int/health-topics/poisoning": [
+"https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/incidents-poisonings/prevention-and-management-of-cases-of-poisoning": [
 "urgence-intoxications-envenimations"
 ],
 "https://ginasthma.org/": [
@@ -734,38 +1045,5 @@
 ],
 "https://goldcopd.org/": [
 "urgence-detresse-respiratoire"
-],
-"https://experts.umn.edu/en/publications/red-blood-cell-transfusion-2023-aabb-international-guidelines/": [
-"candidat"
-],
-"https://www.isbtweb.org/resource/red-blood-cell-transfusion-2023-aabb-international-guidelines.html": [
-"candidat"
-],
-"https://app.magicapp.org/summary/guideline_9508.html": [
-"candidat"
-],
-"https://www.who.int/teams/global-malaria-programme/guidelines-for-malaria": [
-"candidat"
-],
-"https://www.who.int/news/item/16-02-2021-who-launches-consolidated-guidelines-for-malaria": [
-"candidat"
-],
-"https://researchconnect.stonybrook.edu/en/publications/potassium-homeostasis-and-management-of-dyskalemia-in-kidney-dise/": [
-"candidat"
-],
-"https://www.who.int/news-room/fact-sheets/detail/injuries-and-violence": [
-"candidat"
-],
-"https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries": [
-"candidat"
-],
-"https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/incidents-poisonings/prevention-and-management-of-cases-of-poisoning": [
-"candidat"
-],
-"https://www.who.int/publications/i/item/guidelines-for-poison-control": [
-"candidat"
-],
-"https://www.who.int/news-room/fact-sheets/detail/poisoning-prevention-and-management": [
-"candidat"
 ]
 }

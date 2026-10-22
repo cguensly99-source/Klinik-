@@ -60,6 +60,7 @@ for (let i = 0; i < fresh.length; i += 40) {
   for (const id of ids) {
     const r = j.result[id]; if (!r || !r.title) continue;
     seen.add(id);
+    if (/^\s*(erratum|correction|corrigendum|retraction|retracted|comment on|reply to|withdrawn)\b/i.test(r.title)) continue;
     added.push({
       pmid: id,
       title: String(r.title).replace(/\s+/g, ' ').trim().slice(0, 300),

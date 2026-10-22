@@ -131,6 +131,81 @@
 ]
 },
 {
+"id": "chir-preop-postop",
+"system": "chir",
+"title": "Évaluation préopératoire, sécurité au bloc et suites postopératoires",
+"terms": [
+"surgical site infection",
+"perioperative care"
+]
+},
+{
+"id": "chir-peritonite-perforation",
+"system": "chir",
+"title": "Péritonite et perforation d’organe creux",
+"terms": [
+"peritonitis",
+"perforated peptic ulcer",
+"intra-abdominal infection"
+]
+},
+{
+"id": "chir-hernies",
+"system": "chir",
+"title": "Hernies de la paroi abdominale",
+"terms": [
+"hernia",
+"groin hernia"
+]
+},
+{
+"id": "chir-traumatisme-abdominal",
+"system": "chir",
+"title": "Traumatisme de l’abdomen",
+"terms": [
+"abdominal trauma",
+"blunt abdominal trauma"
+]
+},
+{
+"id": "chir-tissus-mous",
+"system": "chir",
+"title": "Abcès, plaies et infections nécrosantes des tissus mous",
+"terms": [
+"necrotizing soft tissue infection",
+"skin and soft tissue infection"
+]
+},
+{
+"id": "chir-anorectal",
+"system": "chir",
+"title": "Pathologie anale : hémorroïdes, fissure, abcès et fistule",
+"terms": [
+"hemorrhoids",
+"anal fistula",
+"anal fissure"
+]
+},
+{
+"id": "chir-ischemie-pied-diabetique",
+"system": "chir",
+"title": "Ischémie des membres, artériopathie et pied diabétique",
+"terms": [
+"acute limb ischemia",
+"diabetic foot ulcer",
+"peripheral artery disease"
+]
+},
+{
+"id": "chir-scrotum-aigu",
+"system": "chir",
+"title": "Scrotum aigu et torsion du testicule",
+"terms": [
+"testicular torsion",
+"acute scrotum"
+]
+},
+{
 "id": "derma-semiologie",
 "system": "derma",
 "title": "Sémiologie dermatologique : lésions élémentaires",
@@ -477,6 +552,60 @@
 ]
 },
 {
+"id": "loco-lombalgie-sciatique",
+"system": "loco",
+"title": "Lombalgie et sciatique",
+"terms": [
+"low back pain",
+"sciatica"
+]
+},
+{
+"id": "loco-arthrose",
+"system": "loco",
+"title": "Arthrose",
+"terms": [
+"osteoarthritis",
+"knee osteoarthritis"
+]
+},
+{
+"id": "loco-arthrites",
+"system": "loco",
+"title": "Arthrites : goutte, polyarthrite rhumatoïde, spondylarthrite, rhumatisme articulaire aigu",
+"terms": [
+"gout",
+"rheumatoid arthritis"
+]
+},
+{
+"id": "loco-osteoporose-fractures",
+"system": "loco",
+"title": "Ostéoporose et fractures de fragilité",
+"terms": [
+"osteoporosis",
+"hip fracture"
+]
+},
+{
+"id": "loco-traumatologie",
+"system": "loco",
+"title": "Traumatologie : entorses, fractures, luxations et urgences",
+"terms": [
+"fracture",
+"open fracture"
+]
+},
+{
+"id": "loco-infections-osteo-articulaires",
+"system": "loco",
+"title": "Infections ostéo-articulaires : arthrite septique, ostéomyélite, spondylodiscite",
+"terms": [
+"septic arthritis",
+"osteomyelitis"
+]
+},
+{
 "id": "nephro-ira",
 "system": "nephro",
 "title": "Insuffisance rénale aiguë",
@@ -608,6 +737,205 @@
 "terms": [
 "ischemic stroke",
 "thrombolysis"
+]
+},
+{
+"id": "onco-principes-depistage",
+"system": "onco",
+"title": "Principes de cancérologie et dépistage",
+"terms": [
+"cancer",
+"cancer screening"
+]
+},
+{
+"id": "onco-cancer-sein",
+"system": "onco",
+"title": "Cancer du sein",
+"terms": [
+"breast cancer",
+"breast mass"
+]
+},
+{
+"id": "onco-cancer-prostate",
+"system": "onco",
+"title": "Cancer de la prostate",
+"terms": [
+"prostate cancer",
+"psa"
+]
+},
+{
+"id": "onco-cancer-colorectal",
+"system": "onco",
+"title": "Cancer colorectal",
+"terms": [
+"colorectal cancer",
+"colon cancer"
+]
+},
+{
+"id": "onco-cancer-poumon",
+"system": "onco",
+"title": "Cancer bronchopulmonaire",
+"terms": [
+"lung cancer",
+"non-small cell lung cancer"
+]
+},
+{
+"id": "onco-douleur-soins-palliatifs",
+"system": "onco",
+"title": "Douleur du cancer et soins palliatifs",
+"terms": [
+"palliative care",
+"cancer pain"
+]
+},
+{
+"id": "orl-otite-otalgie",
+"system": "orl",
+"title": "Otalgie et otite moyenne aiguë",
+"terms": [
+"acute otitis media",
+"otitis externa"
+]
+},
+{
+"id": "orl-angine-rhinosinusite",
+"system": "orl",
+"title": "Angine, pharyngite et rhinosinusite",
+"terms": [
+"pharyngitis",
+"rhinosinusitis"
+]
+},
+{
+"id": "orl-epistaxis-urgences",
+"system": "orl",
+"title": "Épistaxis et urgences ORL",
+"terms": [
+"epistaxis",
+"nosebleed"
+]
+},
+{
+"id": "orl-surdite",
+"system": "orl",
+"title": "Surdité de l’adulte et de l’enfant",
+"terms": [
+"hearing loss",
+"sudden sensorineural hearing loss"
+]
+},
+{
+"id": "ophtalmo-oeil-rouge",
+"system": "ophtalmo",
+"title": "Œil rouge",
+"terms": [
+"conjunctivitis",
+"red eye"
+]
+},
+{
+"id": "ophtalmo-baisse-vision",
+"system": "ophtalmo",
+"title": "Baisse de vision brutale et progressive",
+"terms": [
+"vision loss",
+"retinal artery occlusion"
+]
+},
+{
+"id": "ophtalmo-glaucome-cataracte",
+"system": "ophtalmo",
+"title": "Glaucome et cataracte",
+"terms": [
+"glaucoma",
+"cataract"
+]
+},
+{
+"id": "ophtalmo-traumatismes",
+"system": "ophtalmo",
+"title": "Traumatismes oculaires et urgences ophtalmologiques",
+"terms": [
+"ocular trauma",
+"eye injury"
+]
+},
+{
+"id": "ortho-fractures-ouvertes",
+"system": "ortho",
+"title": "Fractures ouvertes et lésions des parties molles",
+"terms": [
+"open fracture",
+"fracture-related infection"
+]
+},
+{
+"id": "ortho-fracture-hanche",
+"system": "ortho",
+"title": "Fracture de l’extrémité supérieure du fémur",
+"terms": [
+"hip fracture"
+]
+},
+{
+"id": "ortho-fractures-membre-superieur",
+"system": "ortho",
+"title": "Fractures du membre supérieur : clavicule, humérus, avant-bras, poignet",
+"terms": [
+"distal radius fracture",
+"clavicle fracture"
+]
+},
+{
+"id": "ortho-luxations-ligaments",
+"system": "ortho",
+"title": "Luxations, entorses et lésions ligamentaires",
+"terms": [
+"shoulder dislocation",
+"ankle sprain",
+"anterior cruciate ligament injury"
+]
+},
+{
+"id": "ortho-rachis-traumatique",
+"system": "ortho",
+"title": "Traumatisme du rachis et de la moelle",
+"terms": [
+"cervical spine injury",
+"spinal cord injury"
+]
+},
+{
+"id": "ortho-fractures-enfant",
+"system": "ortho",
+"title": "Fractures de l’enfant et décollement épiphysaire",
+"terms": [
+"pediatric fracture",
+"supracondylar humerus fracture"
+]
+},
+{
+"id": "ortho-boiterie-enfant",
+"system": "ortho",
+"title": "Boiterie de l’enfant, dysplasie de hanche et pied bot",
+"terms": [
+"developmental dysplasia of the hip",
+"clubfoot",
+"limping child"
+]
+},
+{
+"id": "ortho-main-tendons",
+"system": "ortho",
+"title": "Traumatismes de la main et lésions tendineuses",
+"terms": [
+"hand injury",
+"flexor tendon injury"
 ]
 },
 {
