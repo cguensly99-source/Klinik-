@@ -8,7 +8,7 @@ const statePath = `${dir}/state.json`, outPath = `${dir}/stats.json`;
 const tz = 'America/Port-au-Prince';
 const dayOf = (sec) => new Intl.DateTimeFormat('en-CA', { timeZone: tz }).format(new Date(sec * 1000));
 const H = (s) => crypto.createHash('sha256').update(s).digest('hex').slice(0, 12);
-const zero = () => ({ new: 0, back: 0, offres: 0, credit: 0, demandes: 0, actives: 0, guide: 0 });
+const zero = () => ({ new: 0, back: 0, offres: 0, credit: 0, demandes: 0, actives: 0, guide: 0, essais: 0 });
 
 let st = { since: dayOf(Date.now() / 1000), seen: [], days: {}, sources: {}, devices: {}, totals: zero(), tagsAsked: [], tagsActive: [], runs: 0 };
 if (fs.existsSync(statePath)) st = { ...st, ...JSON.parse(fs.readFileSync(statePath, 'utf8')) };
@@ -30,7 +30,7 @@ for (const line of lines) {
   const parts = body.split(' · ').map((x) => x.trim());
   const field = (p) => (parts.find((x) => x.startsWith(p)) || '').slice(p.length).trim();
   const tag = field('code client ').split(/[ .]/)[0];
-  const bump = (k) => { d[k]++; st.totals[k]++; added++; };
+  const bump = (k) => { d[k] = (d[k] || 0) + 1; st.totals[k] = (st.totals[k] || 0) + 1; added++; };
   if (title === 'Nouveau visiteur' || title === 'Visiteur de retour') {
     const isNew = title === 'Nouveau visiteur';
     bump(isNew ? 'new' : 'back');
@@ -39,6 +39,7 @@ for (const line of lines) {
     if (isNew) st.devices[dev] = (st.devices[dev] || 0) + 1;
   } else if (title.startsWith('Quelqu') && title.includes('offres')) bump('offres');
   else if (title === 'Crédit épuisé') bump('credit');
+  else if (title.startsWith('Demande d’essai')) bump('essais');
   else if (title.startsWith('Demande d')) { bump('demandes'); if (tag && !st.tagsAsked.includes(H(tag))) st.tagsAsked.push(H(tag)); }
   else if (title === 'Code activé') { bump('actives'); if (tag && !st.tagsActive.includes(H(tag))) st.tagsActive.push(H(tag)); }
   else if (title === 'Guide ouvert') bump('guide');
