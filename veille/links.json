@@ -1,12 +1,13 @@
 {
- "checkedAt": "2026-10-22T08:59:48.334Z",
+ "checkedAt": "2026-10-26T08:15:21.965Z",
  "total": 255,
- "broken": [
+ "broken": [],
+ "unverified": [
   {
-   "url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/New-ESC-EACTS-Guidelines-Guidelines-for-Valvular-Heart-Disease-will-help-prevent-under-treatment-of-patients-and-support",
+   "url": "https://esmo.org/guidelines/breast-cancer/early-breast-cancer",
    "status": 404,
    "chapters": [
-    "cardio-valvulopathies"
+    "onco-cancer-sein"
    ]
   },
   {
@@ -14,13 +15,6 @@
    "status": 404,
    "chapters": [
     "onco-cancer-colorectal"
-   ]
-  },
-  {
-   "url": "https://esmo.org/guidelines/breast-cancer/early-breast-cancer",
-   "status": 404,
-   "chapters": [
-    "onco-cancer-sein"
    ]
   },
   {
