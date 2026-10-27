@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-10-27-geriatrie-reanimation",
+  "date": "2026-10-27",
+  "title": "Gériatrie et réanimation ajoutées, avec la physiopathologie",
+  "items": [
+   "Gériatrie, 9 chapitres : évaluation de la fragilité, chutes, iatrogénie, incontinence, dénutrition et déshydratation, escarres, infections atypiques, fin de vie, maltraitance ; un cas clinique (chute, confusion et sepsis).",
+   "Réanimation, 8 chapitres : gaz du sang, voies aériennes et ventilation non invasive, SDRA, sepsis et choc septique (SSC 2026), coma et traumatisme crânien grave, analgésie et sédation (PADIS 2025), urgences de l’anesthésie, soins après arrêt cardiaque (AHA et ERC 2025) ; deux cas cliniques.",
+   "Nouveau format pour ces chapitres : physiopathologie expliquée, prise en charge par étapes, plusieurs sources croisées, divergences entre recommandations signalées, repères pour les ressources limitées. Pas de doses de médicaments : protocole de l’établissement et normes du MSPP. Contenu à relire par un médecin avant usage clinique."
+  ]
+ },
+ {
   "id": "2026-10-22-chir-ortho-onco",
   "date": "2026-10-22",
   "title": "Chirurgie, orthopédie, cancérologie, ORL, ophtalmologie et locomoteur ajoutés",

@@ -323,6 +323,87 @@
 ]
 },
 {
+"id": "geriatrie-evaluation-fragilite",
+"system": "geriatrie",
+"title": "Évaluation gériatrique globale, fragilité et polypathologie",
+"terms": [
+"frailty",
+"comprehensive geriatric assessment"
+]
+},
+{
+"id": "geriatrie-chutes",
+"system": "geriatrie",
+"title": "Chutes de la personne âgée",
+"terms": [
+"falls prevention",
+"older adults falls"
+]
+},
+{
+"id": "geriatrie-iatrogenie",
+"system": "geriatrie",
+"title": "Polymédication et iatrogénie médicamenteuse",
+"terms": [
+"polypharmacy",
+"deprescribing"
+]
+},
+{
+"id": "geriatrie-incontinence",
+"system": "geriatrie",
+"title": "Incontinence urinaire et troubles mictionnels de la personne âgée",
+"terms": [
+"urinary incontinence",
+"older adults"
+]
+},
+{
+"id": "geriatrie-denutrition-deshydratation",
+"system": "geriatrie",
+"title": "Dénutrition et déshydratation de la personne âgée",
+"terms": [
+"malnutrition older adults",
+"dehydration elderly"
+]
+},
+{
+"id": "geriatrie-escarres",
+"system": "geriatrie",
+"title": "Escarres et plaies chroniques",
+"terms": [
+"pressure ulcer",
+"pressure injury prevention"
+]
+},
+{
+"id": "geriatrie-infections-atypiques",
+"system": "geriatrie",
+"title": "Infections de la personne âgée et présentations atypiques",
+"terms": [
+"sepsis older adults",
+"asymptomatic bacteriuria"
+]
+},
+{
+"id": "geriatrie-fin-de-vie",
+"system": "geriatrie",
+"title": "Fin de vie, soins palliatifs et directives anticipées",
+"terms": [
+"palliative care older adults",
+"end of life care"
+]
+},
+{
+"id": "geriatrie-maltraitance",
+"system": "geriatrie",
+"title": "Maltraitance et négligence envers la personne âgée",
+"terms": [
+"elder abuse",
+"elder mistreatment"
+]
+},
+{
 "id": "gyneco-suivi-prenatal",
 "system": "gyneco",
 "title": "Suivi prénatal et consultation de grossesse",
@@ -1080,6 +1161,78 @@
 "terms": [
 "delirium",
 "acute confusional state"
+]
+},
+{
+"id": "reanim-gaz-du-sang-acidobasique",
+"system": "reanim",
+"title": "Gaz du sang et troubles acido-basiques",
+"terms": [
+"acid-base disorders",
+"metabolic acidosis"
+]
+},
+{
+"id": "reanim-voies-aeriennes-vni",
+"system": "reanim",
+"title": "Voies aériennes, intubation et ventilation non invasive",
+"terms": [
+"airway management",
+"noninvasive ventilation"
+]
+},
+{
+"id": "reanim-sdra-ventilation",
+"system": "reanim",
+"title": "SDRA et ventilation mécanique protectrice",
+"terms": [
+"ards",
+"protective ventilation"
+]
+},
+{
+"id": "reanim-sepsis-choc-septique",
+"system": "reanim",
+"title": "Sepsis et choc septique : reconnaître et agir vite",
+"terms": [
+"sepsis",
+"septic shock"
+]
+},
+{
+"id": "reanim-coma-hic",
+"system": "reanim",
+"title": "Coma, hypertension intracrânienne et traumatisme crânien grave",
+"terms": [
+"traumatic brain injury",
+"intracranial pressure"
+]
+},
+{
+"id": "reanim-analgesie-sedation",
+"system": "reanim",
+"title": "Analgésie, sédation et délirium en réanimation",
+"terms": [
+"icu sedation",
+"delirium"
+]
+},
+{
+"id": "reanim-anesthesie-complications",
+"system": "reanim",
+"title": "Urgences de l’anesthésie : hyperthermie maligne et toxicité des anesthésiques locaux",
+"terms": [
+"malignant hyperthermia",
+"local anesthetic toxicity"
+]
+},
+{
+"id": "reanim-post-arret-cardiaque",
+"system": "reanim",
+"title": "Soins après un arrêt cardiaque : du retour de la circulation au pronostic",
+"terms": [
+"post-cardiac arrest care",
+"targeted temperature management"
 ]
 },
 {

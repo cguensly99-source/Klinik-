@@ -49,6 +49,13 @@
 "endo-hyperthyroidie-goitre",
 "endo-obesite-dyslipidemie",
 "endo-insuffisance-surrenale",
+"geriatrie-evaluation-fragilite",
+"geriatrie-chutes",
+"geriatrie-iatrogenie",
+"geriatrie-incontinence",
+"geriatrie-denutrition-deshydratation",
+"geriatrie-escarres",
+"geriatrie-infections-atypiques",
 "gyneco-hemorragie-post-partum",
 "gyneco-saignements-t1",
 "gyneco-saignements-t3",
@@ -255,6 +262,10 @@
 ],
 "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026": [
 "chir-peritonite-perforation",
+"geriatrie-infections-atypiques",
+"cas-geriatrie-chute-confusion-sepsis",
+"reanim-gaz-du-sang-acidobasique",
+"reanim-sepsis-choc-septique",
 "urgence-etat-de-choc"
 ],
 "https://pubmed.ncbi.nlm.nih.gov/29330835/": [
@@ -404,6 +415,166 @@
 ],
 "https://academic.oup.com/jcem/article/101/2/364/2810333": [
 "endo-insuffisance-surrenale"
+],
+"https://who.int/publications/i/item/9789241550109": [
+"geriatrie-evaluation-fragilite",
+"geriatrie-iatrogenie"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6800406/": [
+"geriatrie-evaluation-fragilite"
+],
+"https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006211.pub3/information": [
+"geriatrie-evaluation-fragilite"
+],
+"https://www.who.int/publications/i/item/9789240103726": [
+"geriatrie-evaluation-fragilite"
+],
+"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7597431/": [
+"geriatrie-evaluation-fragilite"
+],
+"https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/frailty": [
+"geriatrie-evaluation-fragilite"
+],
+"https://doaj.org/article/be451f1f1758427a8a1e9a5ff628fec3": [
+"geriatrie-evaluation-fragilite"
+],
+"https://bgs.org.uk/node/6848": [
+"geriatrie-chutes",
+"cas-geriatrie-chute-confusion-sepsis"
+],
+"https://www.nice.org.uk/guidance/ng249": [
+"geriatrie-chutes"
+],
+"https://www.who.int/publications/i/item/9789240021914": [
+"geriatrie-chutes"
+],
+"https://pubmed.ncbi.nlm.nih.gov/30703272/": [
+"geriatrie-chutes"
+],
+"https://nz.cochrane.org/sites/nz.cochrane.org/files/public/uploads/625_exercise_programs_reduce_falls_in_older_people_living_in_the_community.pdf": [
+"geriatrie-chutes"
+],
+"https://doi.org/10.3389/fneur.2023.1128092": [
+"geriatrie-chutes"
+],
+"https://psnet.ahrq.gov/issue/american-geriatrics-society-2023-updated-ags-beers-criteria-potentially-inappropriate": [
+"geriatrie-iatrogenie",
+"geriatrie-incontinence",
+"cas-geriatrie-chute-confusion-sepsis"
+],
+"https://psnet.ahrq.gov/issue/stoppstart-criteria-potentially-inappropriate-prescribing-older-people-version-3": [
+"geriatrie-iatrogenie"
+],
+"https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.11": [
+"geriatrie-iatrogenie"
+],
+"https://www.aafp.org/pubs/afp/issues/2019/0101/p57.html": [
+"geriatrie-iatrogenie"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC5951648": [
+"geriatrie-iatrogenie"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC11954733/": [
+"geriatrie-iatrogenie"
+],
+"https://uroweb.org/guidelines/non-neurogenic-female-luts/chapter/introduction": [
+"geriatrie-incontinence"
+],
+"https://www.nice.org.uk/guidance/ng123/": [
+"geriatrie-incontinence"
+],
+"https://www.aafp.org/pubs/afp/issues/2013/0415/p543.html": [
+"geriatrie-incontinence"
+],
+"https://auanews.net/issues/articles/2024/june-extra-2024/aua-guidelines-highlights-from-the-2024-aua/sufu-guideline-for-overactive-bladder": [
+"geriatrie-incontinence"
+],
+"https://nutrition-evidence.com/article/23829/nocturnal-polyuria-in-older-people-pathophysiology-and-clinical-implications": [
+"geriatrie-incontinence"
+],
+"https://espen.org/files/ESPEN-Guidelines/Geriatrics-Guideline-French.pdf": [
+"geriatrie-denutrition-deshydratation",
+"geriatrie-escarres"
+],
+"https://pubmed.ncbi.nlm.nih.gov/35306388/": [
+"geriatrie-denutrition-deshydratation"
+],
+"https://pmc.ncbi.nlm.nih.gov/articles/PMC6438340": [
+"geriatrie-denutrition-deshydratation"
+],
+"https://napier-repository.worktribe.com/output/1053694/clinical-symptoms-signs-and-tests-for-identification-of-impending-and-current-water-loss-dehydration-in-older-people-review": [
+"geriatrie-denutrition-deshydratation"
+],
+"https://pubmed.ncbi.nlm.nih.gov/39530434/": [
+"geriatrie-denutrition-deshydratation"
+],
+"https://nutrition-evidence.com/article/235290/mechanisms-of-the-anorexia-of-aging-a-review": [
+"geriatrie-denutrition-deshydratation"
+],
+"https://cieah.ulpgc.es/es/dehydration-in-the-elderly-a-short-review": [
+"geriatrie-denutrition-deshydratation"
+],
+"https://internationalguideline.com/the-international-guideline": [
+"geriatrie-escarres"
+],
+"https://npiap.com/page/InternationalGuidelines": [
+"geriatrie-escarres"
+],
+"https://www.nice.org.uk/guidance/CG179/chapter/recommendations": [
+"geriatrie-escarres"
+],
+"https://www.ncbi.nlm.nih.gov/books/NBK553107/": [
+"geriatrie-escarres"
+],
+"https://www.aafp.org/afp/2020/0715/p99": [
+"geriatrie-infections-atypiques",
+"cas-geriatrie-chute-confusion-sepsis"
+],
+"https://hign.org/consultgeri/resources/protocols/atypical-presentation": [
+"geriatrie-infections-atypiques",
+"cas-geriatrie-chute-confusion-sepsis"
+],
+"https://www.ccjm.org/content/early/2021/09/14/ccjm.88a.ccc080": [
+"geriatrie-infections-atypiques"
+],
+"https://stacks.cdc.gov/view/cdc/97193": [
+"geriatrie-infections-atypiques"
+],
+"https://ebmedicine.net/topics/infectious-disease/fever-elderly": [
+"geriatrie-infections-atypiques"
+],
+"https://www.nice.org.uk/guidance/NG31": [
+"geriatrie-fin-de-vie"
+],
+"https://www.who.int/News-Room/Fact-Sheets/Detail/Palliative-Care": [
+"geriatrie-fin-de-vie"
+],
+"https://www.who.int/publications-detail-redirect/integrating-palliative-care-and-symptom-relief-into-primary-health-care": [
+"geriatrie-fin-de-vie"
+],
+"https://endoflifecare.research.vub.be/future-policy-and-research-for-advance-care-planning-in-dementia-consensus-recommendations-from-an": [
+"geriatrie-fin-de-vie"
+],
+"https://www.rand.org/pubs/external_publications/EP20030508.html": [
+"geriatrie-fin-de-vie"
+],
+"https://apm.amegroups.org/article/view/119608/html": [
+"geriatrie-fin-de-vie"
+],
+"https://www.who.int/en/news-room/fact-sheets/detail/elder-abuse": [
+"geriatrie-maltraitance"
+],
+"https://www.cdc.gov/elder-abuse/risk-factors/index.html": [
+"geriatrie-maltraitance"
+],
+"https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/intimate-partner-violence-and-abuse-of-elderly-and-vulnerable-adults-screening": [
+"geriatrie-maltraitance"
+],
+"https://link.springer.com/article/10.1007/s41999-021-00550-z": [
+"geriatrie-maltraitance"
+],
+"https://www.mcgill.ca/familymed/research/projects/elder": [
+"geriatrie-maltraitance"
 ],
 "https://www.who.int/publications/i/item/9789241549912": [
 "gyneco-suivi-prenatal",
@@ -995,6 +1166,235 @@
 ],
 "https://www.nice.org.uk/guidance/cg103": [
 "psy-delirium"
+],
+"https://themednet.org/publications/hyperglycemic-crises-in-adults-with-diabetes-a-consensus-report": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://www.thebottomline.org.uk/?p=12444": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://litfl.com/ccc/anion-gap/": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://derangedphysiology.com/main/required-reading/acid-base-disorders/Chapter-131/causes-respiratory-acidosis-and-alkalosis": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://epmonthly.com/article/blood-gases-abg-vs-vbg/": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://www.brit-thoracic.org.uk/clinical-resources/guidelines/emergency-oxygen": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://paho.org/sites/default/files/cholera-clin-management-ENG-rev-JUN-1.pdf": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://www.openanesthesia.org/keywords/normal-acid-base-balance/": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://acutecaretesting.org/en/articles/an-introduction-to-acidbase-balance-in-health-and-disease": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://pulmonarychronicles.com/index.php/pulmonarychronicles/article/download/512/1132": [
+"reanim-gaz-du-sang-acidobasique"
+],
+"https://academic.oup.com/ajrccm/article/212/9/2135/8721554": [
+"reanim-voies-aeriennes-vni"
+],
+"https://pubmed.ncbi.nlm.nih.gov/28860265/": [
+"reanim-voies-aeriennes-vni"
+],
+"https://member.thoracic.org/statements/resources/cc/niv-guidelines.pdf": [
+"reanim-voies-aeriennes-vni"
+],
+"https://pubmed.ncbi.nlm.nih.gov/29406182/": [
+"reanim-voies-aeriennes-vni"
+],
+"https://first10em.com/guidelines-on-intubation-in-critically-ill-patients/": [
+"reanim-voies-aeriennes-vni"
+],
+"https://www.apsf.org/article/anesthesia-patient-safety-foundation-update-2022-american-society-of-anesthesiologists-practice-guidelines-for-management-of-the-difficult-airway/": [
+"reanim-voies-aeriennes-vni"
+],
+"https://westjem.com/Review-Article/the-physiologically-difficult-airway.html": [
+"reanim-voies-aeriennes-vni"
+],
+"https://www.thebottomline.org.uk/summaries/icm/rsi-ketamine-or-etomidate-for-tracheal-intubation-of-critically-ill-adults/": [
+"reanim-voies-aeriennes-vni"
+],
+"https://www.thebottomline.org.uk/summaries/device/": [
+"reanim-voies-aeriennes-vni"
+],
+"https://www.neurocriticalcare.org/Portals/0/ENLS%205.0/Resource%20Limited/Resource%20Limited_Airway%20Breathing%20and%20Mechanical%20Ventilation.pdf": [
+"reanim-voies-aeriennes-vni"
+],
+"https://site.thoracic.org/about-us/news/experts-propose-new-global-definition-of-acute-respiratory-distress-syndrome": [
+"reanim-sdra-ventilation",
+"cas-sdra-pneumonie-grave"
+],
+"https://guidelinecentral.com/guideline/3352814": [
+"reanim-sdra-ventilation",
+"cas-sdra-pneumonie-grave"
+],
+"https://www.thoracic.org/statements/resources/cc/ards-guidelines.pdf": [
+"reanim-sdra-ventilation",
+"cas-sdra-pneumonie-grave"
+],
+"https://link.springer.com/article/10.1007/s00134-023-07050-7": [
+"reanim-sdra-ventilation"
+],
+"https://guidelineatlas.com/disease/ards": [
+"reanim-sdra-ventilation"
+],
+"https://pure.amsterdamumc.nl/ws/files/177631006/Acute-respiratory-distress-syndrome.pdf": [
+"reanim-sdra-ventilation",
+"cas-sdra-pneumonie-grave"
+],
+"https://jacobimed.org/public/Docs/Ciro%27s%20Papers/Acute%20Resp%20Syndr.pdf": [
+"reanim-sdra-ventilation"
+],
+"https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.00227/pdf": [
+"reanim-sdra-ventilation"
+],
+"https://jtd.amegroups.org/article/view/7224/html": [
+"reanim-sdra-ventilation"
+],
+"https://www.guidelinecentral.com/insights/mar-2026-sccmesicm-sepsis-guideline-spotlight/": [
+"reanim-sepsis-choc-septique"
+],
+"https://discovery.ucl.ac.uk/id/eprint/1489586/": [
+"reanim-sepsis-choc-septique"
+],
+"https://discovery.ucl.ac.uk/id/eprint/1489587/": [
+"reanim-sepsis-choc-septique"
+],
+"https://jeccm.amegroups.org/article/view/3844/html": [
+"reanim-sepsis-choc-septique"
+],
+"https://pure.amsterdamumc.nl/ws/files/168282239/Endothelial-responses-in-sepsis.pdf": [
+"reanim-sepsis-choc-septique"
+],
+"https://www.thebottomline.org.uk/summaries/icm/sssp2/": [
+"reanim-sepsis-choc-septique"
+],
+"https://rebelem.com/time-to-antibiotics-in-sepsis-a-metric-not-supported-by-evidence/": [
+"reanim-sepsis-choc-septique"
+],
+"https://afpa.org/content/uploads/2025/02/HAS_reco_sepsis.pdf": [
+"reanim-sepsis-choc-septique"
+],
+"https://infectiologie.com/UserFiles/File/formation/2024/2024-j-infectiologie-pf-sepsis-gauzits.pdf": [
+"reanim-sepsis-choc-septique"
+],
+"https://www.guidelinecentral.com/guideline/24234/": [
+"reanim-coma-hic",
+"cas-traumatisme-cranien-grave"
+],
+"https://derangedphysiology.com/main/required-reading/neurological-intensive-care/Chapter-101/summary-brain-trauma-foundation-guidelines": [
+"reanim-coma-hic"
+],
+"https://www.mdpi.com/2077-0383/14/19/6796": [
+"reanim-coma-hic"
+],
+"https://neurocriticalcare.org/Portals/0/ENLS 5.0/ENLS 6.0/Protocol V6_0_Intracranial Hypertension and Herniation.pdf": [
+"reanim-coma-hic",
+"cas-traumatisme-cranien-grave"
+],
+"https://www.neurocriticalcare.org/Portals/0/ENLS 5.0/Resource Limited/Resource Limited_Approach to the Patient With Coma.pdf": [
+"reanim-coma-hic"
+],
+"https://www.neurocriticalcare.org/Portals/0/ENLS 5.0/Resource Limited/Resource Limited_Intracranial Hypertension and Herniation 2.08.pdf": [
+"reanim-coma-hic",
+"cas-traumatisme-cranien-grave"
+],
+"https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2014.00121/pdf": [
+"reanim-coma-hic"
+],
+"https://www.msdmanuals.com/en-gb/professional/neurologic-disorders/coma-and-impaired-consciousness/overview-of-coma-and-impaired-consciousness": [
+"reanim-coma-hic"
+],
+"https://escholarship.org/uc/item/6844t7xq": [
+"reanim-coma-hic"
+],
+"https://evidence.nihr.ac.uk/alert/tranexamic-acid-is-safe-to-use-following-mild-to-moderate-traumatic-brain-injury-and-reduces-deaths/": [
+"reanim-coma-hic"
+],
+"https://sccm.org/clinical-resources/guidelines/guidelines/focused-update-padis-guideline": [
+"reanim-analgesie-sedation"
+],
+"https://www.aacn.org/blog/key-takeaways-2025-update-padis-guidelines": [
+"reanim-analgesie-sedation"
+],
+"https://www.guidelinecentral.com/insights/sept-2025-sccm-preventionmanagementadultsicu-guideline-timeline/": [
+"reanim-analgesie-sedation"
+],
+"https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-for-the-prevention-and-management-of-pa": [
+"reanim-analgesie-sedation"
+],
+"https://www.surgicalcriticalcare.net/Guidelines/Analgosedation 2024.pdf": [
+"reanim-analgesie-sedation"
+],
+"https://www.medschool.umaryland.edu/em/education/umem-educational-pearls/?id=4776": [
+"reanim-analgesie-sedation"
+],
+"https://www.doi.org/10.1186/CC6149": [
+"reanim-analgesie-sedation"
+],
+"https://pubmed.ncbi.nlm.nih.gov/22804788/": [
+"reanim-analgesie-sedation"
+],
+"https://www.icudelirium.org/medicalprofessionals.html": [
+"reanim-analgesie-sedation"
+],
+"https://doaj.org/article/624da2fd01c243b8aac5538cc357f563": [
+"reanim-analgesie-sedation"
+],
+"https://doc.rero.ch/record/303749?ln=it": [
+"reanim-anesthesie-complications"
+],
+"https://www.nysora.com/?p=61403": [
+"reanim-anesthesie-complications"
+],
+"https://harborucla.wikem.org/wiki/Malignant_Hyperthermia": [
+"reanim-anesthesie-complications"
+],
+"https://rarediseases.org/rare-diseases/malignant-hyperthermia": [
+"reanim-anesthesie-complications"
+],
+"https://www.apsf.org/article/mh-survival-without-dantrolene/": [
+"reanim-anesthesie-complications"
+],
+"https://asra.com/advisory-guidelines/article/3/local-anesthetic-systemic-toxicity": [
+"reanim-anesthesie-complications"
+],
+"https://pain.ucsf.edu/node/566": [
+"reanim-anesthesie-complications"
+],
+"https://vle.upm.edu.ph/pluginfile.php/134981/mod_resource/content/2/Practice%20Advisory%20on%20Local%20Anesthetic.pdf": [
+"reanim-anesthesie-complications"
+],
+"https://rapm.bmj.com/content/46/1/81.abstract": [
+"reanim-anesthesie-complications"
+],
+"https://www.rcoa.ac.uk/documents/novice-guide/anaesthetic-emergencies": [
+"reanim-anesthesie-complications"
+],
+"https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/post-cardiac-arrest-care": [
+"reanim-post-arret-cardiaque"
+],
+"https://journalfeed.org/article-a-day/2025/cool-and-coordinated-new-2025-aha-post-arrest-care-guidelines/": [
+"reanim-post-arret-cardiaque"
+],
+"https://www.resus.org.uk/node/36441": [
+"reanim-post-arret-cardiaque"
+],
+"https://www.erc.edu/science-research/guidelines/guidelines-2025/guidelines-2025-english?agree=1": [
+"reanim-post-arret-cardiaque"
+],
+"https://www.ilcor.org/data/Post-cardiac_arrest_syndrome.pdf": [
+"reanim-post-arret-cardiaque"
+],
+"https://www.neurocriticalcare.org/Portals/0/ENLS 5.0/Resource Limited/Resource Limited_Resuscitation Following Cardiac Arrest 2.12.pdf": [
+"reanim-post-arret-cardiaque"
 ],
 "https://ginasthma.org/2026-gina-strategy-report/": [
 "respi-asthme",
