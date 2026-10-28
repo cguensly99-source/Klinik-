@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-10-28-pneumonie-macrolide",
+  "date": "2026-10-28",
+  "title": "Pneumonie : une étude 2026 sur l’antibiotique associé, et un chapitre mis à jour",
+  "items": [
+   "Étude publiée dans BMC Infectious Diseases (2026) : chez 2 784 adultes japonais traités pour une pneumonie contractée en ville, ajouter un macrolide à une bêta-lactamine n’a pas montré de différence de mortalité ni de guérison (environ 5 % de décès dans les deux groupes).",
+   "À lire avec prudence : étude d’observation (pas un essai randomisé), peu de décès donc peu de puissance, résultats avec de larges marges d’incertitude, financement partiel par Pfizer déclaré. Elle ne change pas les recommandations actuelles ; ne modifie pas un traitement sans avis médical.",
+   "Dans Klinik, le chapitre « Pneumonie aiguë communautaire » passe au nouveau format : physiopathologie expliquée, gravité (CURB-65, PSI), choix des antibiotiques selon ATS 2025, ATS/IDSA 2019 et ERS/ESICM 2023, corticoïdes, durée, repères pour Haïti (tuberculose, VIH), cette étude et ses limites. Contenu à relire par un médecin avant usage clinique."
+  ]
+ },
+ {
   "id": "2026-10-27-geriatrie-reanimation",
   "date": "2026-10-27",
   "title": "Gériatrie et réanimation ajoutées, avec la physiopathologie",

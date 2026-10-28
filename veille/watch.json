@@ -1256,9 +1256,10 @@
 {
 "id": "respi-pneumonie",
 "system": "respi",
-"title": "Pneumonie aiguë communautaire",
+"title": "Pneumonie aiguë communautaire : de la gravité au traitement",
 "terms": [
-"community-acquired pneumonia"
+"community-acquired pneumonia",
+"macrolide"
 ]
 },
 {
