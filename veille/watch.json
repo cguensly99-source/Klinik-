@@ -633,6 +633,61 @@
 ]
 },
 {
+"id": "labo-bases-interpretation",
+"system": "labo",
+"title": "Bien utiliser le laboratoire : prélèvement, valeurs de référence et interprétation",
+"terms": [
+"reference intervals",
+"preanalytical errors",
+"critical values"
+]
+},
+{
+"id": "labo-hemogramme",
+"system": "labo",
+"title": "Hémogramme : globules rouges, leucocytes et plaquettes",
+"terms": [
+"complete blood count",
+"anaemia hemoglobin cutoffs"
+]
+},
+{
+"id": "labo-hemostase",
+"system": "labo",
+"title": "Bilan d’hémostase : TP, TCA, fibrinogène et D-dimères",
+"terms": [
+"prothrombin time inr",
+"d-dimer"
+]
+},
+{
+"id": "labo-ionogramme-rein",
+"system": "labo",
+"title": "Ionogramme, urée, créatinine et débit de filtration glomérulaire",
+"terms": [
+"serum electrolytes",
+"estimated glomerular filtration rate"
+]
+},
+{
+"id": "labo-bilan-hepatique",
+"system": "labo",
+"title": "Bilan hépatique : transaminases, cholestase et fonction de synthèse",
+"terms": [
+"liver function tests",
+"abnormal liver chemistries"
+]
+},
+{
+"id": "labo-glycemie-lipides",
+"system": "labo",
+"title": "Glycémie, HbA1c et bilan lipidique",
+"terms": [
+"hba1c diabetes diagnosis",
+"lipid panel ldl cholesterol"
+]
+},
+{
 "id": "loco-lombalgie-sciatique",
 "system": "loco",
 "title": "Lombalgie et sciatique",

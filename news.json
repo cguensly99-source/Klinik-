@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-10-30-labo-notions",
+  "date": "2026-10-30",
+  "title": "Nouvelle matière : Examens de laboratoire, avec chapitres et entraînements",
+  "items": [
+   "Nouveau système « Examens de laboratoire » : bien utiliser le laboratoire (prélèvement, valeurs de référence, valeur prédictive), hémogramme, hémostase, ionogramme et créatinine, bilan hépatique, glycémie, HbA1c et lipides.",
+   "Chaque chapitre explique le principe de l’examen, la démarche d’interprétation, les pièges (hémolyse, drépanocytose, tube mal rempli), les urgences et le contexte haïtien. Sources : recommandations récentes (KDIGO 2024, ESC/EAS 2019, ADA 2023, AAFP), MedlinePlus, manuel MSD, OMS. Divergences entre sources signalées dans le texte.",
+   "5 questions d’entraînement par chapitre et un cas clinique (créatinine, potassium et prélèvement douteux). Les chapitres sur l’inflammation, les urines et les tests rapides, puis la biochimie, la biologie et l’anatomie suivent. Aucune dose de médicament ; contenu à relire par un médecin avant usage clinique."
+  ]
+ },
+ {
   "id": "2026-10-28-pneumonie-macrolide",
   "date": "2026-10-28",
   "title": "Pneumonie : une étude 2026 sur l’antibiotique associé, et un chapitre mis à jour",

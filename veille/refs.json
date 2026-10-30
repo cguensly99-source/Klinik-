@@ -81,6 +81,12 @@
 "infect-ist",
 "infect-tetanos",
 "infect-filariose-helminthiases",
+"labo-bases-interpretation",
+"labo-hemogramme",
+"labo-hemostase",
+"labo-ionogramme-rein",
+"labo-bilan-hepatique",
+"labo-glycemie-lipides",
 "loco-lombalgie-sciatique",
 "loco-arthrose",
 "loco-arthrites",
@@ -780,6 +786,139 @@
 ],
 "https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections": [
 "infect-filariose-helminthiases"
+],
+"https://www.frontierspartnerships.org/articles/10.3389/bjbs.2024.12339/pdf": [
+"labo-bases-interpretation"
+],
+"https://myadlm.org/cln/Articles/2024/MayJune/Best-practices-in-phlebotomy-Sticking-with-the-basics": [
+"labo-bases-interpretation"
+],
+"https://atm.amegroups.org/article/view/11781/html": [
+"labo-bases-interpretation"
+],
+"https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/": [
+"labo-bases-interpretation"
+],
+"https://blogs.imperial.ac.uk/medical-centre/2023/10/10/making-sense-of-sensitivity-specificity-and-predictive-value-a-guide-for-patients-clinicians-and-policymakers/": [
+"labo-bases-interpretation"
+],
+"https://www.medcalc.org/en/book/likelihood-ratio.php": [
+"labo-bases-interpretation"
+],
+"https://medlineplus.gov/lab-tests/complete-blood-count-cbc/": [
+"labo-hemogramme"
+],
+"https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count": [
+"labo-hemogramme"
+],
+"https://www.msdmanuals.com/professional/hematology-and-oncology/approach-to-the-patient-with-anemia/evaluation-of-anemia": [
+"labo-hemogramme"
+],
+"https://aafp.org/pubs/afp/issues/2025/1200/neutropenia.html": [
+"labo-hemogramme"
+],
+"https://www.aafp.org/afp/2022/0900/thrombocytopenia": [
+"labo-hemogramme"
+],
+"https://indianpediatrics.net/july2024/671.pdf": [
+"labo-hemogramme"
+],
+"https://www.thebloodproject.com/definition-of-anemia-hb-thresholds/": [
+"labo-hemogramme"
+],
+"https://www.who.int/publications/i/item/9789240088542": [
+"labo-hemogramme"
+],
+"https://aafp.org/pubs/afp/issues/2016/0215/p279.html": [
+"labo-hemostase"
+],
+"https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/": [
+"labo-hemostase"
+],
+"https://www.testing.com/tests/partial-thromboplastin-time-ptt-aptt/": [
+"labo-hemostase"
+],
+"https://choosingwiselycanada.org/wp-content/uploads/dlm_uploads/2023/11/choosing-wisely-er-coagulation-testing-qi-project-pamplet.pdf": [
+"labo-hemostase"
+],
+"https://www.stago.com/haemostasis/tests-clinical-applications/disseminated-intravascular-coagulation/how-to-diagnose-disseminated-intravascular-coagulation/": [
+"labo-hemostase"
+],
+"https://medlineplus.gov/lab-tests/d-dimer-test/": [
+"labo-hemostase"
+],
+"https://community.the-hospitalist.org/index.php/content/its-time-use-age-based-approach-d-dimer": [
+"labo-hemostase"
+],
+"https://www.acc.org/Latest-in-Cardiology/ten-points-to-remember/2019/09/04/13/39/2019-ESC-Guidelines-for-Acute-Pulmonary-Embolism": [
+"labo-hemostase"
+],
+"https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf": [
+"labo-ionogramme-rein",
+"cas-labo-creatinine-potassium"
+],
+"https://www.aafp.org/afp/2015/0301/p299": [
+"labo-ionogramme-rein"
+],
+"https://www.aafp.org/afp/2015/0915/p487": [
+"labo-ionogramme-rein",
+"cas-labo-creatinine-potassium"
+],
+"https://www.aafp.org/pubs/afp/issues/2019/1201/p687.html": [
+"labo-ionogramme-rein",
+"cas-labo-creatinine-potassium"
+],
+"https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/factors-affecting-egfr-accuracy/clinical-measurements": [
+"labo-ionogramme-rein",
+"cas-labo-creatinine-potassium"
+],
+"https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr": [
+"labo-ionogramme-rein"
+],
+"https://medlineplus.gov/lab-tests/creatinine-test/": [
+"labo-ionogramme-rein"
+],
+"https://medlineplus.gov/lab-tests/electrolyte-panel/": [
+"labo-ionogramme-rein"
+],
+"https://medlineplus.gov/lab-tests/anion-gap-blood-test/": [
+"labo-ionogramme-rein"
+],
+"https://gut.bmj.com/content/67/1/6": [
+"labo-bilan-hepatique"
+],
+"https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/123048/files/2023/07/AJG-Kwo-et-al-ACG-Liver-Chemistries-Guideline-2017.pdf": [
+"labo-bilan-hepatique"
+],
+"https://www.msdmanuals.com/professional/hepatic-and-biliary-disorders/testing-for-hepatic-and-biliary-disorders/laboratory-tests-of-the-liver-and-gallbladder": [
+"labo-bilan-hepatique"
+],
+"https://medlineplus.gov/lab-tests/liver-function-tests/": [
+"labo-bilan-hepatique"
+],
+"https://my.clevelandclinic.org/health/diagnostics/17662-liver-function-tests": [
+"labo-bilan-hepatique"
+],
+"https://diabetesjournals.org/care/article/46/Supplement_1/S19/148056/2-Classification-and-Diagnosis-of-Diabetes": [
+"labo-glycemie-lipides"
+],
+"https://www.who.int/docs/default-source/ncds/diabetes-training-manual.pdf?sfvrsn=99dd29a2_2": [
+"labo-glycemie-lipides"
+],
+"https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test": [
+"labo-glycemie-lipides"
+],
+"https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/diabetes/sickle-cell-trait-hemoglobinopathies-diabetes": [
+"labo-glycemie-lipides"
+],
+"https://academic.oup.com/eurheartj/article/41/1/111/5556353": [
+"labo-glycemie-lipides"
+],
+"https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2019/09/12/15/13/2019-esc-eas-guidelines-for-dyslipidaemias": [
+"labo-glycemie-lipides"
+],
+"https://medlineplus.gov/lab-tests/cholesterol-levels/": [
+"labo-glycemie-lipides"
 ],
 "https://www.who.int/news/item/07-12-2023-who-releases-guidelines-on-chronic-low-back-pain": [
 "loco-lombalgie-sciatique"
