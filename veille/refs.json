@@ -71,6 +71,8 @@
 "hemato-transfusion",
 "hemato-thrombose-anticoagulants",
 "cas-drepanocytose-syndrome-thoracique",
+"inf-nclex-priorisation",
+"inf-delegation",
 "infect-paludisme",
 "infect-tuberculose",
 "infect-vih-sida",
@@ -713,6 +715,54 @@
 ],
 "https://pubmed.ncbi.nlm.nih.gov/33007077/": [
 "hemato-thrombose-anticoagulants"
+],
+"https://nclex.com/files/2026_RN_Test%20Plan_English-F.pdf": [
+"inf-nclex-examen",
+"inf-nclex-priorisation",
+"inf-delegation"
+],
+"https://www.ncsbn.org/public-files/NGN_Winter22_English_Final.pdf": [
+"inf-nclex-examen"
+],
+"https://www.ncsbn.org/14798.htm": [
+"inf-nclex-examen"
+],
+"https://wtcs.pressbooks.pub/nursingmhcc/?p=3807": [
+"inf-nclex-examen"
+],
+"https://pubmed.ncbi.nlm.nih.gov/16780008/": [
+"inf-nclex-examen"
+],
+"https://nursing.uworld.com/nclex-rn/test-plan/": [
+"inf-nclex-examen"
+],
+"https://www.lecturio.com/blog/2026-nclex-test-plan-what-actually-changed-on-april-1/": [
+"inf-nclex-examen"
+],
+"https://pubmed.ncbi.nlm.nih.gov/22319249/": [
+"inf-nclex-priorisation",
+"cas-inf-quatre-patients-priorites"
+],
+"https://pressbooks.library.torontomu.ca/assessmentnursing/chapter/priorities-of-care/": [
+"inf-nclex-priorisation",
+"cas-inf-quatre-patients-priorites"
+],
+"https://wtcs.pressbooks.pub/nursingmpc/chapter/ii-glossary/": [
+"inf-nclex-priorisation"
+],
+"https://wkc.who.int/resources/publications/i/item/basic-emergency-care-approach-to-the-acutely-ill-and-injured": [
+"inf-nclex-priorisation"
+],
+"https://www.ncsbn.org/public-files/NCSBN_Delegation_Guidelines.pdf": [
+"inf-delegation",
+"cas-inf-quatre-patients-priorites"
+],
+"https://openstax.org/books/fundamentals-nursing/pages/15-4-nursing-standards-of-delegation": [
+"inf-delegation"
+],
+"https://med.libretexts.org/Bookshelves/Nursing/Nursing_Management_and_Professional_Concepts_1e_(OpenRN)/03%3A_Delegation_and_Supervision/3.04%3A_Delegation": [
+"inf-delegation",
+"cas-inf-quatre-patients-priorites"
 ],
 "https://www.who.int/teams/global-malaria-programme/guidelines-for-malaria": [
 "infect-paludisme",

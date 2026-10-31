@@ -549,6 +549,33 @@
 ]
 },
 {
+"id": "inf-nclex-examen",
+"system": "inf-nclex",
+"title": "L’examen NCLEX-RN 2026 et le jugement clinique",
+"terms": [
+"nclex-rn test plan",
+"next generation nclex"
+]
+},
+{
+"id": "inf-nclex-priorisation",
+"system": "inf-nclex",
+"title": "Prioriser : ABC, stabilité du patient et processus de soins",
+"terms": [
+"abcde approach",
+"nursing prioritization"
+]
+},
+{
+"id": "inf-delegation",
+"system": "inf-gestion",
+"title": "Déléguer et superviser en sécurité",
+"terms": [
+"nursing delegation",
+"ncsbn delegation guidelines"
+]
+},
+{
 "id": "infect-paludisme",
 "system": "infect",
 "title": "Paludisme",

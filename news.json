@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-10-31-infirmieres-nclex",
+  "date": "2026-10-31",
+  "title": "Nouvelle section pour les infirmières : préparation à l’examen NCLEX-RN",
+  "items": [
+   "Un onglet « Infirmières » sépare les chapitres, les cas et les questions de soins infirmiers des fiches de médecine. Il suit les huit catégories du plan officiel NCLEX-RN 2026 du NCSBN (gestion des soins, sécurité, médicaments, adaptation physiologique, santé mentale, mère et enfant, soins de base).",
+   "Premiers chapitres : l’examen et le jugement clinique en six étapes, la priorisation (ABCDE, niveaux d’urgence), la délégation (cinq droits du NCSBN). Chaque chapitre donne les termes anglais de l’examen, 5 questions d’entraînement de style NCLEX et un cas clinique infirmier. Sources : NCSBN, OpenStax, OpenRN, PubMed, OMS ; divergences entre sources signalées.",
+   "Limites : l’examen est en anglais et reflète la pratique américaine ; en Haïti, suis les protocoles de ton établissement et les normes du MSPP. Aucune dose de médicament. Les questions sont à réponse unique : les formats à réponses multiples, nœud papillon et tendance ne sont pas encore reproduits. Contenu à relire par une infirmière enseignante ou un médecin avant usage."
+  ]
+ },
+ {
   "id": "2026-10-30-labo-notions",
   "date": "2026-10-30",
   "title": "Nouvelle matière : Examens de laboratoire, avec chapitres et entraînements",
