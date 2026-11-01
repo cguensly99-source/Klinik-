@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-01-infirmieres-transfusion-perfusion",
+  "date": "2026-11-01",
+  "title": "Section Infirmières : transfusion sanguine et perfusion intraveineuse",
+  "items": [
+   "Deux nouveaux chapitres et un cas clinique dans l’onglet Infirmières : la transfusion (double contrôle au chevet, surveillance, réactions hémolytique, allergique, TACO, TRALI et conduite à tenir) et la perfusion intraveineuse (choix et soins du site, prévention de l’infection, phlébite, infiltration, extravasation, embolie gazeuse, surcharge). Cas : un écart d’identité, puis une réaction hémolytique.",
+   "Sources : SHOT, NHS Lothian, UCSF Hospital Handbook, OMS (aide-mémoire sur le processus transfusionnel), CDC (prévention des infections liées aux cathéters, 2011, page revue en 2024), OpenRN et le manuel de Louisiane. Désaccords signalés : remplacement du cathéter à date fixe ou sur indication clinique, conduite devant une surcharge circulatoire.",
+   "Limites : plusieurs documents n’ont été lus que partiellement (NHS Lothian, page de présentation de l’OMS) ; la page UCSF est ancienne et non datée ; les délais de pose des poches ne sont pas vérifiés. Aucune dose ; suivre le protocole de ton établissement, de la banque de sang et les normes du MSPP. Contenu à relire par une infirmière enseignante ou un médecin avant usage."
+  ]
+ },
+ {
   "id": "2026-11-01-infirmieres-deterioration-choc-sepsis",
   "date": "2026-11-01",
   "title": "Section Infirmières : signes vitaux, détérioration, choc et sepsis (recommandations 2026)",
