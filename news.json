@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-01-infirmieres-medicaments-precautions",
+  "date": "2026-11-01",
+  "title": "Section Infirmières : médicaments, précautions standard et complémentaires",
+  "items": [
+   "Deux nouveaux chapitres dans l’onglet Infirmières : l’administration sûre des médicaments (cinq droits, noms et aspects semblables, situations à haut risque, double vérification indépendante) et l’hygiène des mains avec les précautions standard et complémentaires (contact, gouttelettes, aéroportée).",
+   "Sources : OpenStax, TRU Open Press, OMS (sécurité des médicaments en situation à haut risque, 2019 ; précautions standard ; brochure OMS AFRO sur l’hygiène des mains), ECRI/ISMP, CDC (précautions complémentaires, révisé en avril 2024 ; tableau Appendix A). Chaque chapitre donne les termes anglais de l’examen et 5 questions de style NCLEX ; les divergences entre sources sont signalées.",
+   "Limites : l’examen est en anglais et reflète la pratique américaine ; en Haïti, suis le protocole de ton établissement et les normes du MSPP. Aucune dose de médicament. Questions à réponse unique. Contenu à relire par une infirmière enseignante ou un médecin avant usage."
+  ]
+ },
+ {
   "id": "2026-10-31-infirmieres-nclex",
   "date": "2026-10-31",
   "title": "Nouvelle section pour les infirmières : préparation à l’examen NCLEX-RN",
