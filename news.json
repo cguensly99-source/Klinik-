@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-01-infirmieres-liquides-acidobasique",
+  "date": "2026-11-01",
+  "title": "Section Infirmières : liquides, électrolytes et équilibre acido-basique",
+  "items": [
+   "Deux nouveaux chapitres et un cas clinique infirmier dans l’onglet Infirmières : liquides et électrolytes (sodium, potassium, calcium, magnésium, solutions isotoniques, hypotoniques et hypertoniques) et équilibre acido-basique (lire un gaz du sang avec la méthode ROME, les quatre troubles, le test d’Allen). Cas : hyperkaliémie avec acidose chez une patiente insuffisante rénale.",
+   "Sources : OpenRN (Nursing Fundamentals 15.3, 15.4 et 15.5), OpenStax (Fundamentals of Nursing 20.1 ; Medical-Surgical Nursing 10.4), Manuel MSD (hyperkaliémie, juin 2025 ; troubles acido-basiques), AAFP 2015 (sodium et potassium). Les désaccords entre sources sont signalés : seuils du sodium, du potassium, du phosphate et du bicarbonate, définition de la compensation complète.",
+   "Limites : le calcium, le magnésium et le phosphate reposent surtout sur OpenRN, et les pages ont été lues par un outil de résumé ; aucune dose ; l’examen est en anglais et reflète la pratique américaine ; en Haïti, suis le protocole de ton établissement et les normes du MSPP. Contenu à relire par une infirmière enseignante ou un médecin avant usage."
+  ]
+ },
+ {
   "id": "2026-11-01-infirmieres-medicaments-precautions",
   "date": "2026-11-01",
   "title": "Section Infirmières : médicaments, précautions standard et complémentaires",
