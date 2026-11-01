@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-01-infirmieres-deterioration-choc-sepsis",
+  "date": "2026-11-01",
+  "title": "Section Infirmières : signes vitaux, détérioration, choc et sepsis (recommandations 2026)",
+  "items": [
+   "Deux nouveaux chapitres dans l’onglet Infirmières : reconnaître la détérioration clinique (signes vitaux, score d’alerte NEWS2, confusion nouvelle, qSOFA) et le choc et le sepsis (mécanisme, quatre familles de choc, stades, anaphylaxie).",
+   "Mise à jour importante : les recommandations Surviving Sepsis Campaign de mars 2026 (SCCM/ESICM) sont prises en compte. Elles conseillent d’utiliser NEWS, NEWS2, MEWS ou SIRS plutôt que le qSOFA seul pour dépister le sepsis. Le chapitre signale un désaccord entre deux résumés sur la noradrénaline : vérifier dans le texte intégral.",
+   "Sources : Royal College of Physicians, NHS Greater Glasgow and Clyde, OpenRN, AHRQ PSNet, OpenStax, British Journal of Nursing, SCCM, PubMed (Sepsis-3, WAO et EAACI sur l’anaphylaxie). Limites : textes intégraux non lus pour plusieurs sources, aucune dose, examen en anglais et pratique américaine ; suivre le protocole de ton établissement et les normes du MSPP. Contenu à relire par une infirmière enseignante ou un médecin."
+  ]
+ },
+ {
   "id": "2026-11-01-infirmieres-liquides-acidobasique",
   "date": "2026-11-01",
   "title": "Section Infirmières : liquides, électrolytes et équilibre acido-basique",
