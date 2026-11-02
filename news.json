@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-02-infirmieres-medicaments-haut-risque",
+  "date": "2026-11-02",
+  "title": "Section Infirmières : médicaments à haut risque, avec doses de référence",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : anticoagulants (héparine, énoxaparine, warfarine), insuline et opioïdes, avec les mécanismes, la surveillance biologique, les antidotes (protamine, vitamine K), la conduite devant une hypoglycémie et la surveillance de la sédation. Nouveauté : les doses de référence sont désormais incluses, chacune avec sa source et sa date.",
+   "Sources : étiquettes officielles (DailyMed, FDA, Lilly, Pfizer, Taro), guide MSF, ADA, NHS Écosse, AHRQ PSNet, Open RN et revues PubMed. Désaccords signalés : quantités de glucides et seuils pour traiter l’hypoglycémie, cibles d’INR, dose de protamine après 30 minutes.",
+   "Limites : les doses sont des repères d’étude, jamais une prescription ; le protocole de l’établissement, le prescripteur et les normes du MSPP font foi (les étiquettes lues sont américaines). Plusieurs sources ont été lues en partie ou en résumé, et deux protocoles d’hypoglycémie sont anciens. Les chapitres précédents seront complétés avec leurs doses. Contenu non relu par un médecin ni par une infirmière enseignante."
+  ]
+ },
+ {
   "id": "2026-11-01-infirmieres-transfusion-perfusion",
   "date": "2026-11-01",
   "title": "Section Infirmières : transfusion sanguine et perfusion intraveineuse",
