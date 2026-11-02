@@ -1,7 +1,58 @@
 {
- "checkedAt": "2026-10-26T08:15:21.965Z",
- "total": 255,
- "broken": [],
+ "checkedAt": "2026-11-02T08:40:30.013Z",
+ "total": 445,
+ "broken": [
+  {
+   "url": "https://bgs.org.uk/node/6848",
+   "status": 404,
+   "chapters": [
+    "geriatrie-chutes",
+    "cas-geriatrie-chute-confusion-sepsis"
+   ]
+  },
+  {
+   "url": "https://www.ncsbn.org/public-files/NGN_Winter22_English_Final.pdf",
+   "status": 404,
+   "chapters": [
+    "inf-nclex-examen"
+   ]
+  },
+  {
+   "url": "https://www.ncsbn.org/14798.htm",
+   "status": 404,
+   "chapters": [
+    "inf-nclex-examen"
+   ]
+  },
+  {
+   "url": "https://wkc.who.int/resources/publications/i/item/basic-emergency-care-approach-to-the-acutely-ill-and-injured",
+   "status": 404,
+   "chapters": [
+    "inf-nclex-priorisation"
+   ]
+  },
+  {
+   "url": "https://www.medschool.umaryland.edu/em/education/umem-educational-pearls/?id=4776",
+   "status": 404,
+   "chapters": [
+    "reanim-analgesie-sedation"
+   ]
+  },
+  {
+   "url": "https://doc.rero.ch/record/303749?ln=it",
+   "status": 410,
+   "chapters": [
+    "reanim-anesthesie-complications"
+   ]
+  },
+  {
+   "url": "https://asra.com/advisory-guidelines/article/3/local-anesthetic-systemic-toxicity",
+   "status": 404,
+   "chapters": [
+    "reanim-anesthesie-complications"
+   ]
+  }
+ ],
  "unverified": [
   {
    "url": "https://esmo.org/guidelines/breast-cancer/early-breast-cancer",
@@ -11,18 +62,18 @@
    ]
   },
   {
-   "url": "https://esmo.org/guidelines/gastrointestinal-cancers/metastatic-colorectal-cancer",
-   "status": 404,
-   "chapters": [
-    "onco-cancer-colorectal"
-   ]
-  },
-  {
    "url": "https://esmo.org/guidelines/gastrointestinal-cancers/early-colon-cancer",
    "status": 404,
    "chapters": [
     "onco-cancer-colorectal",
     "cas-cancer-colon-occlusion"
+   ]
+  },
+  {
+   "url": "https://esmo.org/guidelines/gastrointestinal-cancers/metastatic-colorectal-cancer",
+   "status": 404,
+   "chapters": [
+    "onco-cancer-colorectal"
    ]
   },
   {
