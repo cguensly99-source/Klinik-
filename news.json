@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-03-infirmieres-transmissions",
+  "date": "2026-11-03",
+  "title": "Section Infirmières : transmissions, SBAR et documentation",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : relève et transfert, appel au prescripteur avec SBAR et ISBARR, I-PASS, ordres verbaux et lecture en retour, documentation (timing, objectivité, corrections, entrées tardives, dossier), avec 5 questions d’entraînement.",
+   "Sources : AHRQ PSNet, McCarthy et al. (BMJ Quality and Safety 2025), Müller et al. (BMJ Open 2018), Rasiya et Raheem (2026), Daicampi et al. (2025), Open RN, norme de documentation du BCCNM (2026), ANA (2010), OpenStax et avis de Washington sur les ordres verbaux. Désaccord signalé : la preuve sur SBAR est jugée faible par McCarthy 2025 et modérée par Müller 2018.",
+   "Limites : plusieurs revues ne sont lues que par leur résumé PubMed ; la fiche OMS sur les relèves n’a pas pu être lue ; les règles citées sont américaines ou canadiennes (l’avis de Washington est consultatif), le cadre haïtien n’a pas été lu : l’établissement et le MSPP font foi. Chapitre sans dose. Contenu non relu par un médecin ni par une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-02-infirmieres-droits-ethique",
   "date": "2026-11-02",
   "title": "Section Infirmières : consentement, droits du patient, confidentialité et éthique",
