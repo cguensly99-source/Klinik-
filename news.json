@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-03-infirmieres-cardio",
+  "date": "2026-11-03",
+  "title": "Section Infirmières : insuffisance cardiaque, syndrome coronarien aigu et hypertension (avec doses lues)",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : débit cardiaque et physiopathologie, SCA (ECG, troponine, oxygène, aspirine, nitroglycérine), insuffisance cardiaque (poids quotidien, furosémide), hypertension (seuils, mesure), avec 5 questions d’entraînement.",
+   "Sources : ligne directrice ACC/AHA 2025 sur le SCA (copie PDF non officielle, lue partiellement), Merck Manual, ACC, AHA, ESC 2024 (points clés ACC), OpenStax, Open RN, monographie canadienne de Nitrostat (Santé Canada, 2023) et copie d’une étiquette de furosémide. Doses données avec leur source ; ce sont des repères d’étude, jamais une prescription. Désaccords signalés : nitroglycérine 0,3 à 0,4 mg (ligne directrice) contre 0,3 à 0,6 mg (monographie), cibles de PA AHA/ACC contre ESC, chiffres de sodium.",
+   "Limites : bêtabloquants et fibrinolyse du SCA non lus ; étiquette de furosémide sans date de révision (miroir) ; fiche patient sur le poids financée par Bayer, sans source citée ; urgence hypertensive non lue ; contexte haïtien non lu : le protocole de l’établissement et le MSPP font foi. Contenu non relu par un médecin ni par une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-03-infirmieres-transmissions",
   "date": "2026-11-03",
   "title": "Section Infirmières : transmissions, SBAR et documentation",
