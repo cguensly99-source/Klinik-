@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-02-infirmieres-securite-patient",
+  "date": "2026-11-02",
+  "title": "Section Infirmières : sécurité du patient (chutes, contention, incendie, signalement)",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : évaluation du risque de chute et mesures de prévention, règles et alternatives à la contention, conduite devant un incendie (RACE et PASS), signalement des incidents et culture juste.",
+   "Sources : OMS (fiche de 2023 et guide sur le signalement), AHRQ, revue Cochrane de 2018 (PubMed), règle de la CMS de 2006, protocole HIGN, PSNet et WisTech Open. Désaccord signalé : les alarmes de lit et de fauteuil (surutilisées selon l’AHRQ, effet incertain selon la Cochrane).",
+   "Limites : plusieurs documents lus en partie (NICE, OMS sur le signalement, règle de la CMS) ; l’article sur l’incendie date de 2008 ; les règles de contention sont américaines, en Haïti l’établissement et le MSPP font foi. Chapitre sans dose. Contenu non relu par un médecin ni par une infirmière enseignante."
+  ]
+ },
+ {
   "id": "2026-11-02-infirmieres-medicaments-haut-risque",
   "date": "2026-11-02",
   "title": "Section Infirmières : médicaments à haut risque, avec doses de référence",
