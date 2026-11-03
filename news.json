@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-02-infirmieres-droits-ethique",
+  "date": "2026-11-02",
+  "title": "Section Infirmières : consentement, droits du patient, confidentialité et éthique",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : consentement éclairé et rôle de l’infirmière, capacité et substitut, directives anticipées, droits du patient, confidentialité, principes éthiques, conduite devant un refus de soins, avec 5 questions d’entraînement.",
+   "Sources : code de déontologie du CII (2021), Open RN, HHS, charte de l’OMS sur les droits des patients à la sécurité (2024), AMA, Appelbaum et Grisso (NEJM 1988, résumé PubMed) et un guide de cours de l’Ontario. Désaccord signalé : les critères de capacité (quatre aptitudes selon Appelbaum et Grisso, deux selon le guide de l’Ontario).",
+   "Limites : plusieurs sources sont américaines ou canadiennes (HIPAA, AMA, Ontario) et le cadre légal haïtien n’a pas été lu : l’établissement et le MSPP font foi. Charte de l’OMS lue par sa page d’annonce, AMA par un extrait, code du CII sans ses tableaux. Chapitre sans dose. Contenu non relu par un médecin, un juriste ni une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-02-infirmieres-securite-patient",
   "date": "2026-11-02",
   "title": "Section Infirmières : sécurité du patient (chutes, contention, incendie, signalement)",
