@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-04-infirmieres-respiratoire",
+  "date": "2026-11-04",
+  "title": "Section Infirmières : respiration et oxygénothérapie (asthme, BPCO, pneumonie, embolie pulmonaire)",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : oxygénation, hypoxémie et hypercapnie, dispositifs d’oxygène avec débits et cibles de saturation, physiopathologie et conduite devant asthme, BPCO, pneumonie et embolie pulmonaire, avec 5 questions d’entraînement.",
+   "Sources : manuels Open RN et WisTech, lignes directrices BTS sur l’oxygène, GINA (guide 2023 archivé), GOLD 2026, ATS/IDSA 2019 et mise à jour ATS 2025 (résumé de presse), AHA/ACC 2026 sur l’embolie pulmonaire (résumé), Montgomery College et BCcampus. Doses données avec leur source ; ce sont des repères d’étude, jamais une prescription (prednisolone de l’exacerbation d’asthme, amoxicilline de la pneumonie ambulatoire). Désaccords signalés : cibles de saturation, corticoïdes dans l’asthme et dans la pneumonie, durée des antibiotiques.",
+   "Limites : tableau GINA des bronchodilatateurs non lu, GOLD lu par sa liste de changements, doses d’anticoagulants de l’embolie non lues, tuberculose non couverte, contexte haïtien non lu : le protocole de l’établissement et le MSPP font foi. Contenu non relu par un médecin ni par une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-03-infirmieres-cardio",
   "date": "2026-11-03",
   "title": "Section Infirmières : insuffisance cardiaque, syndrome coronarien aigu et hypertension (avec doses lues)",
