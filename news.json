@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-05-infirmieres-perioperatoire",
+  "date": "2026-11-05",
+  "title": "Section Infirmières : soins péri-opératoires et complications post-opératoires",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : consentement et préparation, jeûne, checklist chirurgicale de l’OMS, prévention de l’infection du site opératoire, hyperthermie maligne, surveillance après l’opération (hémorragie, respiration, douleur, nausées, thromboembolie, rétention urinaire, déhiscence de plaie), avec 5 questions d’entraînement.",
+   "Sources : OpenStax Medical-Surgical Nursing (25.2, 26.3, 27.4), checklist OMS (version 7), recommandations OMS 2016 (résumé), jeûne ASA 2023 (lu par pages tierces), protocoles de céfazoline ZSFG (2023) et UNMC (2026), OpenAnesthesia (hyperthermie maligne 2024), notice d’ondansétron (2017), American Nurse Journal. Doses données avec leur source ; ce sont des repères d’étude, jamais une prescription (céfazoline, dantrolène, ondansétron, héparine, énoxaparine). Désaccord signalé : antibiotique dans les 60 minutes (ZSFG, UNMC) ou 120 minutes (OMS) avant l’incision, et durée après l’intervention.",
+   "Limites : ASA 2023, OMS 2016 et ASHP/CDC non lus en texte intégral, checklist OMS en copie brouillée, protocoles d’antibioprophylaxie d’hôpitaux américains, notice d’ondansétron ancienne, score d’Aldrete, iléus, ERAS et chirurgie pédiatrique non lus, contexte haïtien non lu : le protocole de l’établissement et le MSPP font foi. Contenu non relu par un médecin ni par une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-04-infirmieres-diabete",
   "date": "2026-11-04",
   "title": "Section Infirmières : diabète (hypoglycémie, acidocétose, état hyperosmolaire)",
