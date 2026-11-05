@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-04-infirmieres-diabete",
+  "date": "2026-11-04",
+  "title": "Section Infirmières : diabète (hypoglycémie, acidocétose, état hyperosmolaire)",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : physiopathologie de l’insuline, du glucose et des corps cétoniques, types et durées d’action de l’insuline, traitement de l’hypoglycémie, critères et prise en charge de l’acidocétose et de l’état hyperosmolaire, jours de maladie, avec 5 questions d’entraînement.",
+   "Sources : consensus 2024 sur les crises hyperglycémiques (par résumé), protocole britannique JBDS 2023, articles du South Sudan Medical Journal adaptés aux ressources limitées, OpenStax Medical-Surgical Nursing et Pharmacology, notices de glucagon (2021) et d’Humulin R (2023), infographie ADA et algorithmes NHS Écosse, résumé des Standards ADA 2026. Doses données avec leur source ; ce sont des repères d’étude, jamais une prescription (glucagon, glucose, insuline IV, potassium). Désaccords signalés : critères de l’acidocétose, seuils de potassium, quantité de glucides, durées d’action de l’insuline.",
+   "Limites : texte intégral du consensus 2024 et Standards ADA 2026 non lus, protocole JBDS en texte OCR incomplet, algorithme NHS Écosse et protocole Minnesota anciens, acidocétose de l’enfant, bicarbonate, œdème cérébral et antidiabétiques oraux non lus, contexte haïtien non lu : le protocole de l’établissement et le MSPP font foi. Contenu non relu par un médecin ni par une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-04-infirmieres-neuro",
   "date": "2026-11-04",
   "title": "Section Infirmières : neurologie (AVC, hypertension intracrânienne, convulsions)",
