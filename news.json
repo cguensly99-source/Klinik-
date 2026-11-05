@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-04-infirmieres-neuro",
+  "date": "2026-11-04",
+  "title": "Section Infirmières : neurologie (AVC, hypertension intracrânienne, convulsions)",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : pression intracrânienne et perfusion cérébrale, AVC ischémique et hémorragique, reconnaissance BE-FAST, thrombolyse et thrombectomie, soins avant et après thrombolyse, hypertension intracrânienne, crises convulsives et état de mal épileptique, avec 5 questions d’entraînement.",
+   "Sources : notice complète d’Activase (2022), protocoles de ténectéplase du Minnesota (2025) et d’Alberta (2024), OpenStax Medical-Surgical Nursing, AES 2016, notices de lorazépam, de diazépam et de midazolam, CDC, Epilepsy Foundation of Minnesota, FICM et ordonnance Houston Methodist, ligne directrice AHA/ASA 2026 lue par un résumé. Doses données avec leur source ; ce sont des repères d’étude, jamais une prescription (alteplase, ténectéplase, benzodiazépines, mannitol). Désaccords signalés : fenêtre de thrombolyse, cibles de pression artérielle, seuil de PIC, doses de mannitol, palier de poids de la ténectéplase.",
+   "Limites : ligne directrice AHA/ASA 2026 lue seulement par un résumé secondaire, aucune étiquette de ténectéplase lue, copie de la notice du midazolam via un miroir, notices Pfizer non datées, hémorragie sous-arachnoïdienne (nimodipine) et antiépileptiques de 2e ligne non lus, contexte haïtien non lu : le protocole de l’établissement et le MSPP font foi. Contenu non relu par un médecin ni par une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-04-infirmieres-respiratoire",
   "date": "2026-11-04",
   "title": "Section Infirmières : respiration et oxygénothérapie (asthme, BPCO, pneumonie, embolie pulmonaire)",
