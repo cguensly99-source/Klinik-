@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-05-infirmieres-grossesse-accouchement",
+  "date": "2026-11-05",
+  "title": "Section Infirmières : grossesse, travail et accouchement",
+  "items": [
+   "Nouveau chapitre dans l’onglet Infirmières : mécanisme de la prééclampsie, soins prénatals et signes de danger, immunoglobuline anti-D, hypertension de la grossesse et sulfate de magnésium, stades du travail, rythme cardiaque fœtal (catégories I à III), saignements de fin de grossesse (placenta praevia, hématome rétroplacentaire), avec 5 questions d’entraînement.",
+   "Sources : OpenStax Maternal Newborn Nursing (2024), fiche NICHD sur le rythme fœtal (Ohio OPQIC), revue Cochrane 2023 et étude CLIP sur le sulfate de magnésium, protocole de l’État de New York, soins prénatals OMS 2016, notice du RhoGAM (07/2025), MSD Manual (fév. 2026), RCOG 2011, trois revues sur la prééclampsie (résumés PubMed). Doses données avec leur source ; ce sont des repères d’étude, jamais une prescription (sulfate de magnésium, labétalol, hydralazine, anti-D, antibiotiques de la chorioamniotite). Désaccords signalés : schémas de sulfate de magnésium, début de la phase active (6 cm ou 5 cm), âge gestationnel d’un saignement (20 ou 24 semaines).",
+   "Limites : revues sur la prééclampsie lues par leur résumé, Labour Care Guide de l’OMS lu par une lettre, fiche sur le rythme fœtal sans date, protocole de New York et texte du RCOG anciens, doses de gluconate de calcium, bétaméthasone et nifédipine détaillée non lues, contexte haïtien non lu : le protocole de l’établissement et le MSPP font foi. Contenu non relu par un médecin ni par une enseignante en soins infirmiers."
+  ]
+ },
+ {
   "id": "2026-11-05-infirmieres-perioperatoire",
   "date": "2026-11-05",
   "title": "Section Infirmières : soins péri-opératoires et complications post-opératoires",
