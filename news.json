@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-07-nouvelle-interface",
+  "date": "2026-11-07",
+  "title": "Nouvelle interface : accueil, parcours et systèmes",
+  "items": [
+   "Un nouvel écran d’accueil avec le logo Klinik et deux grands choix l’un sous l’autre : Médecine et Sciences infirmières. La barre du bas devient Accueil, Médecine, Infirmières, Profil.",
+   "Dans chaque parcours, tu vois d’abord la liste des systèmes, puis les fiches ou chapitres du système choisi. Le bouton « Toutes les fiches » (ou « Tous les chapitres ») montre tout, groupé par système. La recherche fonctionne toujours. Les cas cliniques, QCM, mode concours et cartes de révision de la médecine sont dans « S’entraîner », en haut de Médecine.",
+   "Prochainement : des schémas et des algorithmes dans les chapitres. Les schémas seront dessinés pour Klinik d’après les recommandations citées dans chaque chapitre, et chacun indiquera ses sources. Aucun changement de contenu médical dans cette mise à jour."
+  ]
+ },
+ {
   "id": "2026-11-07-infirmieres-postpartum-nouveau-ne",
   "date": "2026-11-07",
   "title": "Section Infirmières : post-partum et nouveau-né",
