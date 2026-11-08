@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-08-schemas-pcime-paludisme",
+  "date": "2026-11-08",
+  "title": "Nouveaux schémas : enfant, paludisme, choléra, choc",
+  "items": [
+   "Nouveaux schémas dans sept chapitres de médecine : évaluer un enfant malade (PCIME), diarrhée et déshydratation de l’enfant, paludisme, choléra, état de choc, pré-éclampsie et hémorragie du post-partum.",
+   "Ce sont 16 schémas de plus : algorithmes pas à pas, tableaux pour classer (déshydratation, type de choc), tableaux de diagnostics différentiels et seuils d’alerte, lisibles sur téléphone.",
+   "Au total : 48 schémas dans 17 chapitres. Chacun est dessiné pour Klinik d’après les sources du chapitre et reste un repère d’étude, jamais une prescription. Les autres chapitres suivront."
+  ]
+ },
+ {
   "id": "2026-11-07-schemas-medecine",
   "date": "2026-11-07",
   "title": "Schémas aussi en médecine",
