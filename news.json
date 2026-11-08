@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-08-schemas-urgences-asthme-pneumonie",
+  "date": "2026-11-08",
+  "title": "Schémas : urgences, asthme, pneumonie",
+  "items": [
+   "Nouveaux schémas dans six chapitres de médecine : détresse respiratoire aiguë, polytraumatisé, brûlures, intoxications et envenimations, asthme et pneumonie.",
+   "Ce sont 17 schémas de plus : algorithmes pas à pas (séquence ABCDE, crise d’asthme, intoxication, brûlure), tableaux de causes et d’indices, règle des neuf, score CURB-65 et antibiotiques selon le lieu de soin, avec les divergences entre sources.",
+   "Au total : 65 schémas dans 23 chapitres. Chacun est dessiné pour Klinik d’après les sources du chapitre et reste un repère d’étude, jamais une prescription. Les autres chapitres suivront."
+  ]
+ },
+ {
   "id": "2026-11-08-schemas-pcime-paludisme",
   "date": "2026-11-08",
   "title": "Nouveaux schémas : enfant, paludisme, choléra, choc",
