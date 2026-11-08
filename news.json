@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-07-schemas-medecine",
+  "date": "2026-11-07",
+  "title": "Schémas aussi en médecine",
+  "items": [
+   "Les schémas arrivent dans les chapitres de médecine : arrêt cardiaque, anaphylaxie, syndrome coronarien aigu, sepsis et choc septique, AVC. Ils arrivent aussi dans les chapitres infirmiers neurologie, diabète et soins péri-opératoires.",
+   "Il y a des algorithmes pas à pas, des tableaux de doses lues avec leur source, et des tableaux de comparaison quand les sources ne sont pas d’accord (fenêtre de la thrombolyse, délai de l’antibiotique avant l’incision).",
+   "Au total : 32 schémas dans 10 chapitres. Chacun est dessiné pour Klinik d’après les sources du chapitre et reste un repère d’étude, jamais une prescription. Les autres chapitres suivront au fil des mises à jour."
+  ]
+ },
+ {
   "id": "2026-11-07-schemas-algorithmes",
   "date": "2026-11-07",
   "title": "Premiers schémas et algorithmes dans les chapitres",
