@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-07-schemas-algorithmes",
+  "date": "2026-11-07",
+  "title": "Premiers schémas et algorithmes dans les chapitres",
+  "items": [
+   "Les chapitres infirmiers « Grossesse, travail et accouchement » et « Post-partum et nouveau-né » ont maintenant des algorithmes (étapes, réponses oui ou non) et des tableaux de doses : 8 schémas au total, lisibles sur téléphone.",
+   "Chaque schéma est dessiné pour Klinik d’après les sources du chapitre et indique ses sources. Il ne contient que des chiffres déjà écrits dans le chapitre et reste un repère d’étude, jamais une prescription : protocole de l’établissement, prescripteur et MSPP font foi. Klinik ne copie pas d’images de sites tiers, à cause des droits d’auteur.",
+   "Les autres chapitres recevront leurs schémas au fil des prochaines mises à jour, en même temps que les nouveaux chapitres."
+  ]
+ },
+ {
   "id": "2026-11-07-nouvelle-interface",
   "date": "2026-11-07",
   "title": "Nouvelle interface : accueil, parcours et systèmes",
