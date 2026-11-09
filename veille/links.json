@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-02T08:40:30.013Z",
+ "checkedAt": "2026-11-09T08:45:17.268Z",
  "total": 445,
  "broken": [
   {
@@ -39,15 +39,15 @@
    ]
   },
   {
-   "url": "https://doc.rero.ch/record/303749?ln=it",
-   "status": 410,
+   "url": "https://asra.com/advisory-guidelines/article/3/local-anesthetic-systemic-toxicity",
+   "status": 404,
    "chapters": [
     "reanim-anesthesie-complications"
    ]
   },
   {
-   "url": "https://asra.com/advisory-guidelines/article/3/local-anesthetic-systemic-toxicity",
-   "status": 404,
+   "url": "https://doc.rero.ch/record/303749?ln=it",
+   "status": 410,
    "chapters": [
     "reanim-anesthesie-complications"
    ]
