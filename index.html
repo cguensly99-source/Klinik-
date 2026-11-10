@@ -226,6 +226,16 @@ a.card{color:inherit;text-decoration:none}
 .fig-table td{border-top:1px solid var(--line)}
 .fig-table td::before{content:attr(data-label);display:block;font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:1px}
 }
+.fig.fig-fold{display:block;padding:0}
+.fig-sum{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px;cursor:pointer;list-style:none;min-height:48px}
+.fig-sum::-webkit-details-marker{display:none}
+.fig-sum:focus-visible{outline:3px solid var(--brand);outline-offset:2px;border-radius:12px}
+.fig-sumt{display:flex;flex-direction:column;gap:2px;min-width:0}
+.fig-h{font-family:var(--f-display);font-size:17px;font-weight:700;line-height:1.25;overflow-wrap:anywhere}
+.fig-tog{flex:none;font-size:14px;font-weight:700;color:var(--brand);border:1.5px solid var(--brand);border-radius:999px;padding:4px 12px}
+.fig-tog::before{content:"Afficher"}
+details[open]>.fig-sum .fig-tog::before{content:"Masquer"}
+.fig-body{display:flex;flex-direction:column;gap:10px;padding:0 12px 14px;min-width:0}
 .fig-svg{max-width:100%;overflow-x:auto}
 .fig-svg svg{max-width:100%;height:auto}
 .fig-src{border-top:1px dashed var(--line);padding-top:8px}
@@ -983,12 +993,14 @@ a.card{color:inherit;text-decoration:none}
       g.rows.map(function (r) { return '<tr>' + r.map(function (c, i) { return i === 0 ? '<th scope="row">' + esc(c) + '</th>' : '<td data-label="' + esc(g.head[i]) + '">' + esc(c) + '</td>'; }).join('') + '</tr>'; }).join('') + '</tbody></table></div>';
   }
   function figHtml(g) {
-    var body = g.type === 'table' ? figTable(g) : g.type === 'svg' ? '<div class="fig-svg" role="img" aria-label="' + esc(g.title) + '">' + g.svg + '</div>' : figAlgo(g);
-    return '<figure class="fig"><figcaption class="fig-t"><span class="label">' + (g.type === 'table' ? 'Tableau' : g.type === 'svg' ? 'Schéma' : 'Algorithme') + '</span><h3>' + esc(g.title) + '</h3></figcaption>' + body +
-      (g.note ? '<p class="small">' + esc(g.note) + '</p>' : '') + '<p class="small muted fig-src">' + esc(g.source) + '</p></figure>';
+    var tail = (g.note ? '<p class="small">' + esc(g.note) + '</p>' : '') + '<p class="small muted fig-src">' + esc(g.source) + '</p>';
+    if (g.type === 'svg') {
+      return '<figure class="fig"><figcaption class="fig-t"><span class="label">Schéma</span><h3>' + esc(g.title) + '</h3></figcaption><div class="fig-svg" role="img" aria-label="' + esc(g.title) + '">' + g.svg + '</div>' + tail + '</figure>';
+    }
+    return '<details class="fig fig-fold"><summary class="fig-sum"><span class="fig-sumt"><span class="label">Algorithme de prise en charge</span><span class="fig-h">' + esc(g.title) + '</span></span><span class="fig-tog" aria-hidden="true"></span></summary><div class="fig-body">' + (g.type === 'table' ? figTable(g) : figAlgo(g)) + tail + '</div></details>';
   }
   function sectionsHtml(f) {
-    var figs = f.figures || [], used = {}, out = '';
+    var figs = (f.figures || []).filter(function (g) { return g.type !== 'table'; }), used = {}, out = '';
     f.sections.forEach(function (s) {
       out += sectionHtml(s);
       figs.forEach(function (g, i) { if (!used[i] && g.after && s.heading.indexOf(g.after) === 0) { out += figHtml(g); used[i] = true; } });
