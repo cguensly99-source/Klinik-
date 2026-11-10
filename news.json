@@ -1,5 +1,35 @@
 [
  {
+  "id": "2026-11-10-schemas-infectieux",
+  "date": "2026-11-10",
+  "title": "Schémas : typhoïde, dengue, leptospirose, IST, tétanos",
+  "items": [
+   "Nouveaux schémas dans cinq chapitres de médecine : fièvre typhoïde, dengue et autres arboviroses, leptospirose, infections sexuellement transmissibles, tétanos.",
+   "Ce sont 15 schémas de plus : évolution de la typhoïde semaine par semaine, signes d’alarme de la dengue et conduite selon ces signes, leptospirose selon la phase, approche syndromique des IST, conduite devant un tétanos déclaré.",
+   "Au total : 120 schémas dans 41 chapitres. Chacun est dessiné pour Klinik d’après les sources du chapitre et reste un repère d’étude, jamais une prescription. Les autres chapitres suivront."
+  ]
+ },
+ {
+  "id": "2026-11-09-schemas-pediatrie-infectieux",
+  "date": "2026-11-09",
+  "title": "Schémas : pédiatrie, tuberculose, VIH",
+  "items": [
+   "Nouveaux schémas dans cinq chapitres de médecine : bronchiolite et pneumonie de l’enfant, malnutrition aiguë, fièvre et convulsions de l’enfant, tuberculose, infection par le VIH.",
+   "Ce sont 14 schémas de plus : seuils de fréquence respiratoire selon l’âge, critères de la malnutrition aiguë et choix ambulatoire ou hôpital, conduite devant un enfant qui convulse avec de la fièvre, diagnostic et suivi de la tuberculose, dépistage et prise en charge du VIH.",
+   "Au total : 105 schémas dans 36 chapitres. Chacun est dessiné pour Klinik d’après les sources du chapitre et reste un repère d’étude, jamais une prescription. Les autres chapitres suivront."
+  ]
+ },
+ {
+  "id": "2026-11-09-schemas-cardio-endocrino-nephro",
+  "date": "2026-11-09",
+  "title": "Schémas : cardiologie, endocrinologie, néphrologie",
+  "items": [
+   "Nouveaux schémas dans huit chapitres de médecine : insuffisance cardiaque, fibrillation atriale, thrombose et embolie pulmonaire, hypertension, acidocétose diabétique, hypoglycémie, insuffisance rénale aiguë, hyponatrémie et dyskaliémies.",
+   "Ce sont 26 schémas de plus : classification NYHA, score CHA₂DS₂-VA, démarche devant une embolie pulmonaire, mesure et décision dans l’hypertension, l’ordre des gestes dans l’acidocétose, mémo AEIOU de la dialyse, conduites devant une hyponatrémie ou une hyperkaliémie.",
+   "Au total : 91 schémas dans 31 chapitres. Chacun est dessiné pour Klinik d’après les sources du chapitre et reste un repère d’étude, jamais une prescription. Les autres chapitres suivront."
+  ]
+ },
+ {
   "id": "2026-11-08-schemas-urgences-asthme-pneumonie",
   "date": "2026-11-08",
   "title": "Schémas : urgences, asthme, pneumonie",
