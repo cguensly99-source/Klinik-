@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-10-schemas-hematologie-nouveau-ne",
+  "date": "2026-11-10",
+  "title": "Schémas : hématologie, filariose, nouveau-né",
+  "items": [
+   "Nouveaux schémas dans huit chapitres de médecine : anémies, drépanocytose, troubles de l’hémostase, transfusion, thrombose et anticoagulants, filariose et helminthiases, examen et réanimation du nouveau-né, ictère et infection du nouveau-né.",
+   "Ce sont 25 schémas de plus : classement des anémies par le VGM, drépanocytaire aux urgences, interprétation du bilan de coagulation, accidents transfusionnels, surveillance et antidotes des anticoagulants, réanimation de base à la naissance, signes de danger du nouveau-né, ictère physiologique ou pathologique.",
+   "Au total : 145 schémas dans 49 chapitres. Chacun est dessiné pour Klinik d’après les sources du chapitre et reste un repère d’étude, jamais une prescription. Les autres chapitres suivront."
+  ]
+ },
+ {
   "id": "2026-11-10-schemas-infectieux",
   "date": "2026-11-10",
   "title": "Schémas : typhoïde, dengue, leptospirose, IST, tétanos",
