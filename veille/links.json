@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-16T17:17:20.451Z",
+ "checkedAt": "2026-11-23T19:25:42.356Z",
  "total": 445,
  "broken": [
   {
@@ -62,13 +62,6 @@
    ]
   },
   {
-   "url": "https://esmo.org/guidelines/gastrointestinal-cancers/metastatic-colorectal-cancer",
-   "status": 404,
-   "chapters": [
-    "onco-cancer-colorectal"
-   ]
-  },
-  {
    "url": "https://esmo.org/guidelines/gastrointestinal-cancers/early-colon-cancer",
    "status": 404,
    "chapters": [
@@ -88,6 +81,13 @@
    "status": 404,
    "chapters": [
     "ortho-boiterie-enfant"
+   ]
+  },
+  {
+   "url": "https://esmo.org/guidelines/gastrointestinal-cancers/metastatic-colorectal-cancer",
+   "status": 404,
+   "chapters": [
+    "onco-cancer-colorectal"
    ]
   }
  ]
